@@ -3,7 +3,7 @@ plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/ma
 plugins/dbztcg/plugininfo.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/plugininfo.txt	24882
 plugins/dbztcg/formats.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/formats.txt	50311
 plugins/dbztcg/bot.jpg	http://www.lackeyccg.com/zombie/bot.jpg	63228
-plugins/dbztcg/sets/carddata.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/carddata.txt	8840
+plugins/dbztcg/sets/Premiere.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Premiere.txt	1270574
 plugins/dbztcg/sets/setimages/general/cardback.jpg	http://www.lackeyccg.com/zombie/high/cardback.jpg	76504
 plugins/dbztcg/sets/setimages/general/spawned.jpg	http://www.lackeyccg.com/zombie/high/spawned.jpg	306451
 plugins/dbztcg/images/Phase1.jpg	http://www.lackeyccg.com/zombie/images/Phase1.jpg	0
