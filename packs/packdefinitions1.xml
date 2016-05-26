@@ -1,0 +1,17 @@
+<packdefinitions version="1.0">
+
+<pack>
+     <packtitle>30 Fixed Cards</packtitle>
+     <packimage>samplebooster</packimage>
+     <packformat>Panini</packformat>
+     <packkind>YourLabel</packkind>
+     <packdoubles>yes</packdoubles>
+     <packcommoncrit><field>Set</field><eval>IS</eval><data>Premiere</packcommoncrit>
+     <chance>
+          <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+          <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+          <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+     </chance>
+</pack>
+
+</packdefinitions>

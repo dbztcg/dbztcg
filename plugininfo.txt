@@ -1,0 +1,15 @@
+<plugin>
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+      <label>Deck</label>
+      <visibletoowner>no</visibletoowner>
+      <visibletoothers>no</visibletoothers>
+</gamezone>
+
+</plugin>

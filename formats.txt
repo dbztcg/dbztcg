@@ -1,0 +1,29 @@
+<formatdefinitions>
+
+<format>
+     <label>Score</label>
+     <set>SaiyanSaga</set>
+     <set>FriezaSaga</set>
+     <set>TrunksSaga</set>
+     <set>AndroidsSaga</set>
+     <set>CellSaga</set>
+     <set>CellGamesSaga</set>
+     <set>WorldGamesSaga</set>
+     <set>BabidiSaga</set>
+     <set>BuuSaga</set>
+     <set>FusionSaga</set>
+     <set>KidBuuSaga</set>
+     <set>LeagueCards</set>
+     <set>Promos</set>
+</format>
+
+<format>
+     <label>Panini</label>
+     <set>Premiere</set>
+     <set>HeroesAndVillains</set>
+     <set>MovieCollection</set>
+     <set>Evolution</set>
+     <set>Perfection</set>
+</format>
+
+</formatdefinitions>

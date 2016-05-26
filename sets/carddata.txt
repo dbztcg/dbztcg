@@ -1,0 +1,2 @@
+Name	Set	ImageFile	Type	Rarity
+Vegeta -- Prince of Saiyans	Premiere	s001.jpg	Main Personality	Starter
