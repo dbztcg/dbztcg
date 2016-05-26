@@ -15,5 +15,5 @@ plugins/dbztcg/images/Phase6.jpg	http://www.lackeyccg.com/zombie/images/Phase6.j
 plugins/dbztcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/dbztcg/dbztcg/master/packs/packdefinitions1.xml	57869
 plugins/dbztcg/packs/samplebooster.jpg	http://www.lackeyccg.com/zombie/packs/samplebooster.jpg	64009
 plugins/dbztcg/premiereURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/premiereURLs.txt	3017528
-CardImageURLs:
+CardURLFiles:
 premiereURLs.txt
