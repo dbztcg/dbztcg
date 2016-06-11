@@ -1,0 +1,160 @@
+Name	Set	ImageFile	Type	Rarity	Style	Keywords
+Nail -- Watchful	HeroesAndVillains	havC001	Main Personality	Common	Hero	Level 1
+Nail -- Protector	HeroesAndVillains	havC002	Main Personality	Common	Hero	Level 2
+Nappa -- Rested	HeroesAndVillains	havC003	Main Personality	Common	Villain	Level 1
+Nappa -- Smirking	HeroesAndVillains	havC004	Main Personality	Common	Villain	Level 2
+Raditz -- True Saiyan	HeroesAndVillains	havC005	Main Personality	Common	Villain	Level 1
+Raditz -- Confident	HeroesAndVillains	havC006	Main Personality	Common	Villain	Level 2
+Tenshinhan -- Patient	HeroesAndVillains	havC007	Main Personality	Common	Hero	Level 1
+Tenshinhan -- Stubborn	HeroesAndVillains	havC008	Main Personality	Common	Hero	Level 2
+Captain Ginyu -- Aggressive	HeroesAndVillains	havC009	Ally	Common	Villain	Level 1
+Dodoria -- Lackey	HeroesAndVillains	havC010	Ally	Common	Villain	Level 1
+Frieza -- Mastermind	HeroesAndVillains	havC011	Ally	Common	Villain	Level 1
+Gohan -- Trained	HeroesAndVillains	havC012	Ally	Common	Hero	Level 1
+Krillin -- Supportive	HeroesAndVillains	havC013	Ally	Common	Hero	Level 1
+Zarbon -- Loyal Servant	HeroesAndVillains	havC014	Ally	Common	Villain	Level 1
+Black Radiating Drill	HeroesAndVillains	havC015	Drill	Common	Black	
+Black Barrier Destruction	HeroesAndVillains	havC016	Event	Common	Black	
+Black Evasion	HeroesAndVillains	havC017	Energy Combat	Common	Black	
+Black Fist Lock	HeroesAndVillains	havC018	Physical Combat	Common	Black	
+Black Overpowering Attack	HeroesAndVillains	havC019	Physical Combat	Common	Black	
+Black Chomp	HeroesAndVillains	havC020	Physical Combat	Common	Black	
+Black Refusal	HeroesAndVillains	havC021	Physical Combat	Common	Black	
+Black Hair Trap	HeroesAndVillains	havC022	Physical Combat	Common	Black	
+Blue Lifting Drill	HeroesAndVillains	havC023	Drill	Common	Blue	
+Blue Cover Up	HeroesAndVillains	havC024	Event	Common	Blue	
+Blue Fear	HeroesAndVillains	havC025	Event	Common	Blue	
+Blue Bat Attack	HeroesAndVillains	havC026	Physical Combat	Common	Blue	
+Blue Determined Attack	HeroesAndVillains	havC027	Physical Combat	Common	Blue	
+Blue Hand Blast	HeroesAndVillains	havC028	Energy Combat	Common	Blue	
+Blue Glare	HeroesAndVillains	havC029	Energy Combat	Common	Blue	
+Namekian Self-training	HeroesAndVillains	havC030	Setup	Common	Namekian	
+Namekian Forearm Block	HeroesAndVillains	havC031	Physical Combat	Common	Namekian	
+Namekian Chin Grab	HeroesAndVillains	havC032	Physical Combat	Common	Namekian	
+Namekian Lift	HeroesAndVillains	havC033	Physical Combat	Common	Namekian	
+Namekian Short Kick	HeroesAndVillains	havC034	Physical Combat	Common	Namekian	
+Namekian Energy Beams	HeroesAndVillains	havC035	Energy Combat	Common	Namekian	
+Namekian Quick Shot	HeroesAndVillains	havC036	Energy Combat	Common	Namekian	
+Orange Driving Drill	HeroesAndVillains	havC037	Drill	Common	Orange	
+Orange Torching Drill	HeroesAndVillains	havC038	Drill	Common	Orange	
+Orange Calming Drill	HeroesAndVillains	havC039	Drill	Common	Orange	
+Orange Crashing Drill	HeroesAndVillains	havC040	Drill	Common	Orange	
+Orange Energy Bubble	HeroesAndVillains	havC041	Event	Common	Orange	
+Orange Nudge	HeroesAndVillains	havC042	Energy Combat	Common	Orange	
+Orange Double Palm Beam	HeroesAndVillains	havC043	Energy Combat	Common	Orange	
+Red Destiny	HeroesAndVillains	havC044	Setup	Common	Red	
+Red Emergency	HeroesAndVillains	havC045	Event	Common	Red	
+Red Containment	HeroesAndVillains	havC046	Event	Common	Red	
+Red Sacrifice	HeroesAndVillains	havC047	Energy Combat	Common	Red	
+Red Restraint	HeroesAndVillains	havC048	Physical Combat	Common	Red	
+Red Knee Lift	HeroesAndVillains	havC049	Physical Combat	Common	Red	
+Red Leap	HeroesAndVillains	havC050	Physical Combat	Common	Red	
+Saiyan Protection Drill	HeroesAndVillains	havC051	Drill	Common	Saiyan	
+Saiyan Strength Test	HeroesAndVillains	havC052	Event	Common	Saiyan	
+Saiyan Drive By	HeroesAndVillains	havC053	Event	Common	Saiyan	
+Saiyan Blocking Technique	HeroesAndVillains	havC054	Physical Combat	Common	Saiyan	
+Saiyan Hand Swipe	HeroesAndVillains	havC055	Physical Combat	Common	Saiyan	
+Saiyan Driving Punch	HeroesAndVillains	havC056	Physical Combat	Common	Saiyan	
+Saiyan Charged Fist	HeroesAndVillains	havC057	Physical Combat	Common	Saiyan	
+Captain Ginyu's Pain	HeroesAndVillains	havC058	Setup	Common	Named	
+Energetic Left Blast	HeroesAndVillains	havC059	Energy Combat	Common	Freestyle	
+Combination Drill	HeroesAndVillains	havC060	Drill	Common	Freestyle	
+Nail -- Unflinching	HeroesAndVillains	havU061	Main Personality	Uncommon	Hero	Level 3
+Nail -- Combat Ready	HeroesAndVillains	havU062	Main Personality	Uncommon	Hero	Level 4
+Nappa -- Overconfident	HeroesAndVillains	havU063	Main Personality	Uncommon	Villain	Level 3
+Nappa -- Enraged	HeroesAndVillains	havU064	Main Personality	Uncommon	Villain	Level 4
+Raditz -- Angered	HeroesAndVillains	havU065	Main Personality	Uncommon	Villain	Level 3
+Raditz -- Triumphant	HeroesAndVillains	havU066	Main Personality	Uncommon	Villain	Level 4
+Tenshinhan -- Prepared	HeroesAndVillains	havU067	Main Personality	Uncommon	Hero	Level 3
+Tenshinhan -- Smug	HeroesAndVillains	havU068	Main Personality	Uncommon	Hero	Level 4
+Goku -- Thoughtful	HeroesAndVillains	havU069	Ally	Uncommon	Hero	Level 1
+Piccolo -- Waiting	HeroesAndVillains	havU070	Ally	Uncommon	Hero	Level 1
+Trunks -- Bashful	HeroesAndVillains	havU071	Ally	Uncommon	Hero	Level 1
+Vegeta -- Impatient	HeroesAndVillains	havU072	Ally	Uncommon	Villain	Level 1
+Black Viewing Drill	HeroesAndVillains	havU073	Drill	Uncommon	Black	
+Black Foreshadowing	HeroesAndVillains	havU074	Event	Uncommon	Black	
+Black Upward Dodge	HeroesAndVillains	havU075	Physical Combat	Uncommon	Black	
+Black Overhead Burst	HeroesAndVillains	havU076	Energy Combat	Uncommon	Black	
+Blue Joy Ride	HeroesAndVillains	havU077	Event	Uncommon	Blue	
+Blue Flinch	HeroesAndVillains	havU078	Energy Combat	Uncommon	Blue	
+Blue Leverage	HeroesAndVillains	havU079	Physical Combat	Uncommon	Blue	
+Blue Face Crunch	HeroesAndVillains	havU080	Physical Combat	Uncommon	Blue	
+Namekian Shocking Drill	HeroesAndVillains	havU081	Drill	Uncommon	Namekian	
+Namekian Hurried Quest	HeroesAndVillains	havU082	Event	Uncommon	Namekian	
+Namekian Patient Block	HeroesAndVillains	havU083	Event	Uncommon	Namekian	
+Namekian Jump Kick	HeroesAndVillains	havU084	Physical Combat	Uncommon	Namekian	
+Orange Catch	HeroesAndVillains	havU085	Physical Combat	Uncommon	Orange	
+Orange Charged Kick	HeroesAndVillains	havU086	Physical Combat	Uncommon	Orange	
+Orange Saving Kick	HeroesAndVillains	havU087	Physical Combat	Uncommon	Orange	
+Orange Elbow	HeroesAndVillains	havU088	Physical Combat	Uncommon	Orange	
+Red City Destruction	HeroesAndVillains	havU089	Event	Uncommon	Red	
+Red Palm Strike	HeroesAndVillains	havU090	Physical Combat	Uncommon	Red	
+Red Stomach Dive	HeroesAndVillains	havU091	Physical Combat	Uncommon	Red	
+Red Club	HeroesAndVillains	havU092	Physical Combat	Uncommon	Red	
+Saiyan Unleashing Drill	HeroesAndVillains	havU093	Drill	Uncommon	Saiyan	
+Saiyan Rescue	HeroesAndVillains	havU094	Event	Uncommon	Saiyan	
+Saiyan Spin Kick	HeroesAndVillains	havU095	Physical Combat	Uncommon	Saiyan	
+Saiyan Right Blast	HeroesAndVillains	havU096	Energy Combat	Uncommon	Saiyan	
+Raditz's Dirty Tactics	HeroesAndVillains	havU097	Setup	Uncommon	Named	
+Nail's Heritage	HeroesAndVillains	havU098	Event	Uncommon	Named	
+Nappa's Confidence	HeroesAndVillains	havU099	Event	Uncommon	Named	
+Tenshinhan's Preparation	HeroesAndVillains	havU100	Event	Uncommon	Named	
+Black Declaration	HeroesAndVillains	havR101	Setup	Rare	Black	
+Black Head Charge	HeroesAndVillains	havR102	Physical Combat	Rare	Black	
+Black Enraged Assault	HeroesAndVillains	havR103	Physical Combat	Rare	Black	
+Focused Assault	HeroesAndVillains	havR104	Energy Combat	Rare	Hero	
+Black Counter Ball	HeroesAndVillains	havR105	Energy Combat	Rare	Black	
+Blue Taming Technique	HeroesAndVillains	havR106	Setup	Rare	Blue	
+Blue Overpowering Drill	HeroesAndVillains	havR107	Drill	Rare	Blue	
+Blue Leaping Kick	HeroesAndVillains	havR108	Physical Combat	Rare	Blue	
+Blue Crush	HeroesAndVillains	havR109	Physical Combat	Rare	Blue	
+Blue Back Break	HeroesAndVillains	havR110	Physical Combat	Rare	Blue	
+Namekian Cut Off	HeroesAndVillains	havR111	Event	Rare	Namekian	
+Namekian Backhand	HeroesAndVillains	havR112	Physical Combat	Rare	Namekian	
+Namekian Clash	HeroesAndVillains	havR113	Physical Combat	Rare	Namekian	
+Namekian High Knee	HeroesAndVillains	havR114	Physical Combat	Rare	Namekian	
+Namekian Confident Burst	HeroesAndVillains	havR115	Energy Combat	Rare	Namekian	
+Orange Possession Drill	HeroesAndVillains	havR116	Drill	Rare	Orange	
+Orange Chasing Drill	HeroesAndVillains	havR117	Drill	Rare	Orange	
+Orange Dodge	HeroesAndVillains	havR118	Event	Rare	Orange	
+Orange Hand Cannon	HeroesAndVillains	havR119	Energy Combat	Rare	Orange	
+Orange Mini Ball	HeroesAndVillains	havR120	Energy Combat	Rare	Orange	
+Red Embarrassing Drill	HeroesAndVillains	havR121	Drill	Rare	Red	
+Red Stop	HeroesAndVillains	havR122	Event	Rare	Red	
+Red Controlled Attack	HeroesAndVillains	havR123	Physical Combat	Rare	Red	
+Red Overpower	HeroesAndVillains	havR124	Energy Combat	Rare	Red	
+Red Combined Blast	HeroesAndVillains	havR125	Energy Combat	Rare	Red	
+Saiyan Intimidation	HeroesAndVillains	havR126	Setup	Rare	Saiyan	
+Saiyan Outrage	HeroesAndVillains	havR127	Event	Rare	Saiyan	
+Saiyan Grab	HeroesAndVillains	havR128	Physical Combat	Rare	Saiyan	
+Saiyan Body Blow	HeroesAndVillains	havR129	Physical Combat	Rare	Saiyan	
+Saiyan Prepped Ball	HeroesAndVillains	havR130	Energy Combat	Rare	Saiyan	
+Isolation	HeroesAndVillains	havR131	Setup	Rare	Freestyle	
+Withering Fire	HeroesAndVillains	havR132	Energy Combat	Rare	Villain	
+Crushing Beam	HeroesAndVillains	havR133	Energy Combat	Rare	Hero	
+Face Smash	HeroesAndVillains	havR134	Physical Combat	Rare	Villain	
+Wall Breaker	HeroesAndVillains	havR135	Physical Combat	Rare	Freestyle	
+Nail's Dashing Attack	HeroesAndVillains	havR136	Energy Combat	Rare	Named	
+Nappa's Energized Charge	HeroesAndVillains	havR137	Physical Combat	Rare	Named	
+Raditz's Offensive Guard	HeroesAndVillains	havR138	Physical Combat	Rare	Named	
+Tenshinhan's Draining Blast	HeroesAndVillains	havR139	Energy Combat	Rare	Named	
+Trunks. Sword Stance	HeroesAndVillains	havR140	Event	Rare	Named	
+Heroic Assistance	HeroesAndVillains	havUR141	Setup	Ultra Rare	Hero	
+Villainous Empowerment	HeroesAndVillains	havUR142	Event	Ultra Rare	Villain	
+Saiyan Intimidation	HeroesAndVillains	havP001	Setup	Promo	Saiyan	
+Isolation	HeroesAndVillains	havP002	Setup	Promo	Freestyle	
+Orange Dodge	HeroesAndVillains	havP003	Event	Promo	Orange	
+Wall Breaker	HeroesAndVillains	havP004	Physical Combat	Promo	Freestyle	
+Red Overpower	HeroesAndVillains	havP005	Energy Combat	Promo	Red	
+Withering Fire	HeroesAndVillains	havP006	Energy Combat	Promo	Villain	
+Blue Crush	HeroesAndVillains	havP007	Physical Combat	Promo	Blue	
+Black Enraged Assault	HeroesAndVillains	havP008	Physical Combat	Promo	Black	
+Namekian Clash	HeroesAndVillains	havP009	Physical Combat	Promo	Namekian	
+Saiyan Outrage	HeroesAndVillains	havP010	Event	Promo	Saiyan	
+Red Controlled Attack	HeroesAndVillains	havP011	Physical Combat	Promo	Red	
+Orange Possession Drill	HeroesAndVillains	havP012	Drill	Promo	Orange	
+Black Declaration	HeroesAndVillains	havP013	Setup	Promo	Black	
+Blue Overpowering Drill	HeroesAndVillains	havP014	Drill	Promo	Blue	
+Saiyan Body Blow	HeroesAndVillains	havP015	Physical Combat	Promo	Saiyan	
+Red Stop	HeroesAndVillains	havP016	Event	Promo	Red	
+Orange Hand Cannon	HeroesAndVillains	havP017	Energy Combat	Promo	Orange	

@@ -1,0 +1,143 @@
+Name	Set	ImageFile	Type	Rarity	Style	Keywords
+Kami -- Guardian	MovieCollection	mcC001	Ally	Common	Hero	Level 1
+Master Roshi -- Scouted	MovieCollection	mcC002	Ally	Common	Hero	Level 1
+Oolong -- Concerned	MovieCollection	mcC003	Ally	Common	Hero	Level 1
+Yajirobe -- Bundled	MovieCollection	mcC004	Ally	Common	Hero	Level 1
+Dr. Wheelo -- Intelligent	MovieCollection	mcC005	Ally	Common	Villain	Level 1
+Garlic Jr. -- Confrontational	MovieCollection	mcC006	Ally	Common	Villain	Level 1
+Lord Slug -- Amazed	MovieCollection	mcC007	Ally	Common	Villain	Level 1
+Turles -- Fighter	MovieCollection	mcC008	Ally	Common	Villain	Level 1
+Black Amusement Drill	MovieCollection	mcC009	Drill	Common	Black	
+Black Chopping Drill	MovieCollection	mcC010	Drill	Common	Black	
+Black Blinding Burst	MovieCollection	mcC011	Energy Combat	Common	Black	
+Black Dense Ball	MovieCollection	mcC012	Energy Combat	Common	Black	
+Black Dismissal	MovieCollection	mcC013	Physical Combat	Common	Black	
+Black Flying Knee	MovieCollection	mcC014	Physical Combat	Common	Black	
+Black Resistance	MovieCollection	mcC015	Energy Combat	Common	Black	
+Black Stop	MovieCollection	mcC016	Physical Combat	Common	Black	
+Blue Minions	MovieCollection	mcC017	Setup	Common	Blue	
+Blue Escaping Drill	MovieCollection	mcC018	Drill	Common	Blue	
+Blue Barrier	MovieCollection	mcC019	Energy Combat	Common	Blue	
+Blue Encircled Strike	MovieCollection	mcC020	Physical Combat	Common	Blue	
+Blue Floating Beam	MovieCollection	mcC021	Energy Combat	Common	Blue	
+Blue Rejection	MovieCollection	mcC022	Energy Combat	Common	Blue	
+Blue Safeguard	MovieCollection	mcC023	Physical Combat	Common	Blue	
+Blue Slash	MovieCollection	mcC024	Physical Combat	Common	Blue	
+Namekian Reinforced Drill	MovieCollection	mcC025	Drill	Common	Namekian	
+Namekian Choke	MovieCollection	mcC026	Physical Combat	Common	Namekian	
+Namekian Clench	MovieCollection	mcC027	Physical Combat	Common	Namekian	
+Namekian Mouth Beam	MovieCollection	mcC028	Energy Combat	Common	Namekian	
+Namekian Reinforced Block	MovieCollection	mcC029	Physical Combat	Common	Namekian	
+Namekian Reinforced Defense	MovieCollection	mcC030	Energy Combat	Common	Namekian	
+Namekian Reinforced Charge	MovieCollection	mcC031	Event	Common	Namekian	
+Namekian Reinforced Jab	MovieCollection	mcC032	Physical Combat	Common	Namekian	
+Namekian Right Burst	MovieCollection	mcC033	Energy Combat	Common	Namekian	
+Orange Disaster Drill	MovieCollection	mcC034	Drill	Common	Orange	
+Orange Confidence	MovieCollection	mcC035	Physical Combat	Common	Orange	
+Orange Desperation	MovieCollection	mcC036	Event	Common	Orange	
+Orange Eruption	MovieCollection	mcC037	Energy Combat	Common	Orange	
+Orange Extension	MovieCollection	mcC038	Physical Combat	Common	Orange	
+Orange Flee	MovieCollection	mcC039	Energy Combat	Common	Orange	
+Orange Gathering	MovieCollection	mcC040	Event	Common	Orange	
+Orange Reactive Strike	MovieCollection	mcC041	Physical Combat	Common	Orange	
+Orange Smash	MovieCollection	mcC042	Physical Combat	Common	Orange	
+Red Maneuvering Drill	MovieCollection	mcC043	Drill	Common	Red	
+Red Saving Drill	MovieCollection	mcC044	Drill	Common	Red	
+Red Face Break	MovieCollection	mcC045	Physical Combat	Common	Red	
+Red Hop	MovieCollection	mcC046	Energy Combat	Common	Red	
+Red Resourceful Block	MovieCollection	mcC047	Physical Combat	Common	Red	
+Red Right Punch	MovieCollection	mcC048	Physical Combat	Common	Red	
+Red Slide	MovieCollection	mcC049	Physical Combat	Common	Red	
+Red Vaulted Kick	MovieCollection	mcC050	Physical Combat	Common	Red	
+Saiyan Hanging Out Drill	MovieCollection	mcC051	Drill	Common	Saiyan	
+Saiyan Charge	MovieCollection	mcC052	Physical Combat	Common	Saiyan	
+Saiyan Counter Kick	MovieCollection	mcC053	Physical Combat	Common	Saiyan	
+Saiyan Enjoyment	MovieCollection	mcC054	Event	Common	Saiyan	
+Saiyan Evasion	MovieCollection	mcC055	Physical Combat	Common	Saiyan	
+Saiyan Headbutt	MovieCollection	mcC056	Physical Combat	Common	Saiyan	
+Saiyan Leaping Burst	MovieCollection	mcC057	Energy Combat	Common	Saiyan	
+Saiyan Overpowering Blast	MovieCollection	mcC058	Energy Combat	Common	Saiyan	
+Saiyan Swat	MovieCollection	mcC059	Energy Combat	Common	Saiyan	
+Lookout Drill	MovieCollection	mcC060	Drill	Common	Freestyle	
+Dr. Wheelo -- Big Brain	MovieCollection	mcU061	Main Personality	Uncommon	Villain	Level 1
+Dr. Wheelo -- Scheming	MovieCollection	mcU062	Main Personality	Uncommon	Villain	Level 2
+Dr. Wheelo -- Confined	MovieCollection	mcU063	Main Personality	Uncommon	Villain	Level 3
+Dr. Wheelo -- Robotic	MovieCollection	mcU064	Main Personality	Uncommon	Villain	Level 4
+Garlic Jr. -- Commanding	MovieCollection	mcU065	Main Personality	Uncommon	Villain	Level 1
+Garlic Jr. -- Crazed	MovieCollection	mcU066	Main Personality	Uncommon	Villain	Level 2
+Garlic Jr. -- Observant	MovieCollection	mcU067	Main Personality	Uncommon	Villain	Level 3
+Garlic Jr. -- Transformed	MovieCollection	mcU068	Main Personality	Uncommon	Villain	Level 4
+Lord Slug -- Aged	MovieCollection	mcU069	Main Personality	Uncommon	Villain	Level 1
+Lord Slug -- Successful	MovieCollection	mcU070	Main Personality	Uncommon	Villain	Level 2
+Lord Slug -- Renewed	MovieCollection	mcU071	Main Personality	Uncommon	Villain	Level 3
+Lord Slug -- Huge	MovieCollection	mcU072	Main Personality	Uncommon	Villain	Level 4
+Turles -- Shadowy	MovieCollection	mcU073	Main Personality	Uncommon	Villain	Level 1
+Turles -- Watchful	MovieCollection	mcU074	Main Personality	Uncommon	Villain	Level 2
+Turles -- Triumphant	MovieCollection	mcU075	Main Personality	Uncommon	Villain	Level 3
+Turles -- Conquering	MovieCollection	mcU076	Main Personality	Uncommon	Villain	Level 4
+Black Chaos	MovieCollection	mcU077	Setup	Uncommon	Black	
+Black Entrance	MovieCollection	mcU078	Setup	Uncommon	Black	
+Black Back Strike	MovieCollection	mcU079	Physical Combat	Uncommon	Black	
+Black Teamwork	MovieCollection	mcU080	Energy Combat	Uncommon	Black	
+Black Tracing Beam	MovieCollection	mcU081	Energy Combat	Uncommon	Black	
+Blue Dominance	MovieCollection	mcU082	Setup	Uncommon	Blue	
+Blue Double Blast	MovieCollection	mcU083	Energy Combat	Uncommon	Blue	
+Blue Intervention	MovieCollection	mcU084	Physical Combat	Uncommon	Blue	
+Blue Surround	MovieCollection	mcU085	Physical Combat	Uncommon	Blue	
+Blue Upward Barrage	MovieCollection	mcU086	Energy Combat	Uncommon	Blue	
+Namekian Disturbance	MovieCollection	mcU087	Setup	Uncommon	Namekian	
+Namekian Erasing Blast	MovieCollection	mcU088	Energy Combat	Uncommon	Namekian	
+Namekian Gut Punch	MovieCollection	mcU089	Physical Combat	Uncommon	Namekian	
+Orange Captivity Drill	MovieCollection	mcU090	Drill	Uncommon	Orange	
+Orange Commanding Drill	MovieCollection	mcU091	Drill	Uncommon	Orange	
+Orange Distracting Drill	MovieCollection	mcU092	Drill	Uncommon	Orange	
+Red Dazing Drill	MovieCollection	mcU093	Drill	Uncommon	Red	
+Red Freezing Beam	MovieCollection	mcU094	Energy Combat	Uncommon	Red	
+Red Tandem Attack	MovieCollection	mcU095	Physical Combat	Uncommon	Red	
+Red Trailing Blast	MovieCollection	mcU096	Energy Combat	Uncommon	Red	
+Saiyan Freedom	MovieCollection	mcU097	Setup	Uncommon	Saiyan	
+Saiyan Aerial Attack	MovieCollection	mcU098	Energy Combat	Uncommon	Saiyan	
+Saiyan Lunge	MovieCollection	mcU099	Physical Combat	Uncommon	Saiyan	
+Saiyan Upward Kick	MovieCollection	mcU100	Physical Combat	Uncommon	Saiyan	
+Black Chin Kick	MovieCollection	mcR101	Physical Combat	Rare	Black	
+Black Combo	MovieCollection	mcR102	Physical Combat	Rare	Black	
+Black Dash	MovieCollection	mcR103	Physical Combat	Rare	Black	
+Black Daze	MovieCollection	mcR104	Event	Rare	Black	
+Blue Observation Drill	MovieCollection	mcR105	Drill	Rare	Blue	
+Blue Precarious Defense	MovieCollection	mcR106	Physical Combat	Rare	Blue	
+Blue Surprise	MovieCollection	mcR107	Event	Rare	Blue	
+Blue Takedown	MovieCollection	mcR108	Physical Combat	Rare	Blue	
+Namekian Growth	MovieCollection	mcR109	Setup	Rare	Namekian	
+Namekian Knockback	MovieCollection	mcR110	Physical Combat	Rare	Namekian	
+Namekian Overwatch	MovieCollection	mcR111	Event	Rare	Namekian	
+Namekian Right Kick	MovieCollection	mcR112	Physical Combat	Rare	Namekian	
+Namekian Surprise Attack	MovieCollection	mcR113	Energy Combat	Rare	Namekian	
+Orange Spotlight	MovieCollection	mcR114	Setup	Rare	Orange	
+Orange Electricity	MovieCollection	mcR115	Energy Combat	Rare	Orange	
+Orange Empowered Kick	MovieCollection	mcR116	Energy Combat	Rare	Orange	
+Orange Uncontrolled Blast	MovieCollection	mcR117	Energy Combat	Rare	Orange	
+Red Relaxation	MovieCollection	mcR118	Setup	Rare	Red	
+Red Threatening Drill	MovieCollection	mcR119	Drill	Rare	Red	
+Red Mule Kick	MovieCollection	mcR120	Physical Combat	Rare	Red	
+Red Restriction	MovieCollection	mcR121	Event	Rare	Red	
+Red Retreat	MovieCollection	mcR122	Event	Rare	Red	
+Saiyan Arrival	MovieCollection	mcR123	Setup	Rare	Saiyan	
+Saiyan Menace	MovieCollection	mcR124	Setup	Rare	Saiyan	
+Saiyan Backbreaker	MovieCollection	mcR125	Physical Combat	Rare	Saiyan	
+Saiyan Studying	MovieCollection	mcR126	Event	Rare	Saiyan	
+Dr. Wheelo's Revival	MovieCollection	mcR127	Setup	Rare	Named	
+Dr. Wheelo's History	MovieCollection	mcR128	Event	Rare	Named	
+Garlic Jr.'s Dead Zone	MovieCollection	mcR129	Setup	Rare	Named	
+Garlic Jr.'s Counter Blast	MovieCollection	mcR130	Energy Combat	Rare	Named	
+Lord Slug's Fist Slam	MovieCollection	mcR131	Physical Combat	Rare	Named	
+Lord Slug's Regeneration	MovieCollection	mcR132	Event	Rare	Named	
+Turles' Fruit	MovieCollection	mcR133	Setup	Rare	Named	
+Turles' Energy Ring	MovieCollection	mcR134	Energy Combat	Rare	Named	
+Information Gathering	MovieCollection	mcR135	Setup	Rare	Freestyle	
+Tree of Might	MovieCollection	mcR136	Setup	Rare	Freestyle	
+Ensnared	MovieCollection	mcR137	Physical Combat	Rare	Freestyle	
+Flip Toss	MovieCollection	mcR138	Physical Combat	Rare	Freestyle	
+Pulverize	MovieCollection	mcR139	Physical Combat	Rare	Freestyle	
+Sagacious Strike	MovieCollection	mcR140	Physical Combat	Rare	Villain	
+I'll Dig Your Grave!	MovieCollection	mcUR141	Physical Combat	Ultra Rare	Freestyle	
+True Power	MovieCollection	mcUR142	Energy Combat	Ultra Rare	Freestyle	

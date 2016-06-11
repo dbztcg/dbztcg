@@ -1,0 +1,320 @@
+Name	Set	ImageFile	Type	Rarity	Style	Keywords
+Black Pop-up	Evolution	eC001	Setup	Common	Black	
+Black Inactivity Drill	Evolution	eC002	Drill	Common	Black	
+Black Remembrance Drill	Evolution	eC003	Drill	Common	Black	
+Black Explosion	Evolution	eC004	Energy Combat	Common	Black	
+Black Headbutt	Evolution	eC005	Physical Combat	Common	Black	
+Black Impediment	Evolution	eC006	Physical Combat	Common	Black	
+Black Protection	Evolution	eC007	Energy Combat	Common	Black	
+Black Request	Evolution	eC008	Event	Common	Black	
+Black Travelling Punch	Evolution	eC009	Physical Combat	Common	Black	
+Blue Cleanse	Evolution	eC010	Setup	Common	Blue	
+Blue Counter	Evolution	eC011	Physical Combat	Common	Blue	
+Blue Energy Focus	Evolution	eC012	Energy Combat	Common	Blue	
+Blue Eye Lasers	Evolution	eC013	Energy Combat	Common	Blue	
+Blue Flight	Evolution	eC014	Energy Combat	Common	Blue	
+Blue Knee	Evolution	eC015	Physical Combat	Common	Blue	
+Blue Shopping	Evolution	eC016	Event	Common	Blue	
+Blue Vehicle Destruction	Evolution	eC017	Physical Combat	Common	Blue	
+Namekian Reinforced Catch	Evolution	eC018	Setup	Common	Namekian	
+Namekian Assistance Drill	Evolution	eC019	Drill	Common	Namekian	
+Namekian Cleansing Drill	Evolution	eC020	Drill	Common	Namekian	
+Namekian Catch	Evolution	eC021	Physical Combat	Common	Namekian	
+Namekian Deflection	Evolution	eC022	Energy Combat	Common	Namekian	
+Namekian Door Destruction	Evolution	eC023	Energy Combat	Common	Namekian	
+Namekian Elbow Drop	Evolution	eC024	Physical Combat	Common	Namekian	
+Namekian Intervention	Evolution	eC025	Energy Combat	Common	Namekian	
+Namekian Wrist Strike	Evolution	eC026	Physical Combat	Common	Namekian	
+Orange Audience	Evolution	eC027	Setup	Common	Orange	
+Orange Intense Training Drill	Evolution	eC028	Drill	Common	Orange	
+Orange Investigation Drill	Evolution	eC029	Drill	Common	Orange	
+Orange Retrieval Drill	Evolution	eC030	Drill	Common	Orange	
+Orange Concealment	Evolution	eC031	Energy Combat	Common	Orange	
+Orange Duck	Evolution	eC032	Physical Combat	Common	Orange	
+Orange Fracture	Evolution	eC033	Event	Common	Orange	
+Orange Ki Blast	Evolution	eC034	Energy Combat	Common	Orange	
+Orange Left Punch	Evolution	eC035	Physical Combat	Common	Orange	
+Orange Outburst	Evolution	eC036	Event	Common	Orange	
+Orange Sideswipe	Evolution	eC037	Physical Combat	Common	Orange	
+Orange Upward Strike	Evolution	eC038	Physical Combat	Common	Orange	
+Red Examination Drill	Evolution	eC039	Drill	Common	Red	
+Red Chop	Evolution	eC040	Physical Combat	Common	Red	
+Red Cross Block	Evolution	eC041	Physical Combat	Common	Red	
+Red Quick Jab	Evolution	eC042	Physical Combat	Common	Red	
+Red Right Knee	Evolution	eC043	Physical Combat	Common	Red	
+Red Robotic Blast	Evolution	eC044	Energy Combat	Common	Red	
+Red Smash	Evolution	eC045	Physical Combat	Common	Red	
+Red Vault	Evolution	eC046	Energy Combat	Common	Red	
+Saiyan Flight	Evolution	eC047	Setup	Common	Saiyan	
+Saiyan Inspection Drill	Evolution	eC048	Drill	Common	Saiyan	
+Saiyan Blockade	Evolution	eC049	Energy Combat	Common	Saiyan	
+Saiyan Concussive Blast	Evolution	eC050	Energy Combat	Common	Saiyan	
+Saiyan Discovery	Evolution	eC051	Event	Common	Saiyan	
+Saiyan Empowered Smash	Evolution	eC052	Energy Combat	Common	Saiyan	
+Saiyan Energy Outburst	Evolution	eC053	Energy Combat	Common	Saiyan	
+Saiyan Lifting Kick	Evolution	eC054	Physical Combat	Common	Saiyan	
+Saiyan Overhead Kick	Evolution	eC055	Physical Combat	Common	Saiyan	
+Saiyan Palm Block	Evolution	eC056	Physical Combat	Common	Saiyan	
+Saiyan Smack	Evolution	eC057	Physical Combat	Common	Saiyan	
+Acquisition Drill	Evolution	eC058	Drill	Common	Freestyle	
+Android Superiority	Evolution	eC059	Physical Combat	Common	Freestyle	
+Shoulder Slam	Evolution	eC060	Physical Combat	Common	Freestyle	
+Black Signal	Evolution	eU061	Setup	Uncommon	Black	
+Black Empowered Elbow	Evolution	eU062	Energy Combat	Uncommon	Black	
+Black Energy Discharge	Evolution	eU063	Energy Combat	Uncommon	Black	
+Black Shoulder Charge	Evolution	eU064	Physical Combat	Uncommon	Black	
+Black Tunneling Ball	Evolution	eU065	Energy Combat	Uncommon	Black	
+Black Wilt	Evolution	eU066	Event	Uncommon	Black	
+Blue Hush	Evolution	eU067	Setup	Uncommon	Blue	
+Blue Awakening Drill	Evolution	eU068	Drill	Uncommon	Blue	
+Blue Face Grab	Evolution	eU069	Physical Combat	Uncommon	Blue	
+Blue Palm Shot	Evolution	eU070	Energy Combat	Uncommon	Blue	
+Namekian Aerial Knee	Evolution	eU071	Physical Combat	Uncommon	Namekian	
+Namekian Downward Blast	Evolution	eU072	Energy Combat	Uncommon	Namekian	
+Namekian Energy Assault	Evolution	eU073	Energy Combat	Uncommon	Namekian	
+Namekian Leaping Kick	Evolution	eU074	Physical Combat	Uncommon	Namekian	
+Orange Scorn	Evolution	eU075	Setup	Uncommon	Orange	
+Red Premonition	Evolution	eU076	Setup	Uncommon	Red	
+Red Chest Beam	Evolution	eU077	Energy Combat	Uncommon	Red	
+Red Collision	Evolution	eU078	Physical Combat	Uncommon	Red	
+Red Forceful Strike	Evolution	eU079	Physical Combat	Uncommon	Red	
+Red Intense Blast	Evolution	eU080	Energy Combat	Uncommon	Red	
+Saiyan Empowered Slide	Evolution	eU081	Energy Combat	Uncommon	Saiyan	
+Saiyan Fierce Kick	Evolution	eU082	Physical Combat	Uncommon	Saiyan	
+Saiyan Interruption	Evolution	eU083	Event	Uncommon	Saiyan	
+Saiyan Sword Strike	Evolution	eU084	Physical Combat	Uncommon	Saiyan	
+Android 19 -- Stoic	Evolution	eU085	Main Personality	Uncommon	Villain	Level 1
+Android 19 -- Pondering	Evolution	eU086	Main Personality	Uncommon	Villain	Level 2
+Android 19 -- Unimpressed	Evolution	eU087	Main Personality	Uncommon	Villain	Level 3
+Android 19 -- Patient	Evolution	eU088	Main Personality	Uncommon	Villain	Level 4
+Android 20 -- Focused	Evolution	eU089	Main Personality	Uncommon	Villain	Level 1
+Android 20 -- Unfazed	Evolution	eU090	Main Personality	Uncommon	Villain	Level 2
+Android 20 -- Surprised	Evolution	eU091	Main Personality	Uncommon	Villain	Level 3
+Android 20 -- Master Planner	Evolution	eU092	Main Personality	Uncommon	Villain	Level 4
+Vegeta -- Unrelenting	Evolution	eU093	Ally	Uncommon	Hero	Level 1
+Korin -- Watching From Afar	Evolution	eU094	Ally	Uncommon	Hero	Level 1
+Maron -- Popular	Evolution	eU095	Ally	Uncommon	Hero	Level 1
+Turtle -- Protective	Evolution	eU096	Ally	Uncommon	Hero	Level 1
+Android 17 -- Beckoning	Evolution	eU097	Ally	Uncommon	Villain	Level 1
+Android 18 -- Smirking	Evolution	eU098	Ally	Uncommon	Villain	Level 1
+Android 19 -- Injured	Evolution	eU099	Ally	Uncommon	Villain	Level 1
+Android 20 -- Mastermind	Evolution	eU100	Ally	Uncommon	Villain	Level 1
+Black Learning Drill	Evolution	eR101	Drill	Rare	Black	
+Black Empowered Sword Slash	Evolution	eR102	Energy Combat	Rare	Black	
+Blue Kiss	Evolution	eR103	Setup	Rare	Blue	
+Blue Entertaining Drill	Evolution	eR104	Drill	Rare	Blue	
+Blue Transportation Drill	Evolution	eR105	Drill	Rare	Blue	
+Blue Belly Bash	Evolution	eR106	Physical Combat	Rare	Blue	
+Blue Wash	Evolution	eR107	Event	Rare	Blue	
+Namekian Waiting	Evolution	eR108	Setup	Rare	Namekian	
+Namekian Enhancement	Evolution	eR109	Event	Rare	Namekian	
+Namekian Overcharge	Evolution	eR110	Event	Rare	Namekian	
+Orange Freezing Drill	Evolution	eR111	Drill	Rare	Orange	
+Orange Reading Drill	Evolution	eR112	Drill	Rare	Orange	
+Orange Accumulated Burst	Evolution	eR113	Energy Combat	Rare	Orange	
+Orange Drain	Evolution	eR114	Energy Combat	Starter	Orange	
+Red Analysis	Evolution	eR115	Event	Rare	Red	
+Red Antidote	Evolution	eR116	Event	Rare	Red	
+Red Eye Beams	Evolution	eR117	Energy Combat	Rare	Red	
+Red Rage	Evolution	eR118	Energy Combat	Rare	Red	
+Saiyan Peace	Evolution	eR119	Setup	Rare	Saiyan	
+Saiyan Dash	Evolution	eR120	Physical Combat	Rare	Saiyan	
+Saiyan Destructive Blast	Evolution	eR121	Energy Combat	Rare	Saiyan	
+Saiyan Tracking Blast	Evolution	eR122	Energy Combat	Rare	Saiyan	
+Android 17's Van	Evolution	eR123	Setup	Rare	Named	
+Android 17's Back Smash	Evolution	eR124	Physical Combat	Rare	Named	
+Android 18's Arm Breaker	Evolution	eR125	Physical Combat	Rare	Named	
+Android 18's Toss	Evolution	eR126	Energy Combat	Rare	Named	
+Android 19's Energy Absorption	Evolution	eR127	Energy Combat	Rare	Named	
+Android 19's Choke	Evolution	eR128	Physical Combat	Rare	Named	
+Android 20's Scouting Drill	Evolution	eR129	Drill	Rare	Named	
+Android 20's Domination	Evolution	eR130	Physical Combat	Rare	Named	
+Vegeta's Destruction Blast	Evolution	eR131	Energy Combat	Rare	Named	
+Elimination	Evolution	eR132	Setup	Rare	Freestyle	
+Android Attack Drill	Evolution	eR133	Drill	Rare	Freestyle	
+Moment of Peace	Evolution	eR134	Setup	Rare	Freestyle	
+Android Presence	Evolution	eR135	Event	Rare	Freestyle	
+Energized Strike	Evolution	eR136	Energy Combat	Rare	Freestyle	
+Enhanced Reflexes	Evolution	eR137	Event	Rare	Freestyle	
+Optic Blast	Evolution	eR138	Energy Combat	Rare	Freestyle	
+Sinister Choke	Evolution	eR139	Physical Combat	Rare	Freestyle	
+Tug of War	Evolution	eR140	Event	Rare	Freestyle	
+Defiant Challenge	Evolution	eUR141	Event	Ultra Rare	Freestyle	
+Hidden Power Drill	Evolution	eUR142	Drill	Ultra Rare	Freestyle	
+Goku -- Dashing	Evolution	eUR143	Main Personality	Ultra Rare	Hero	Level 4
+Vegeta -- Elite	Evolution	eUR144	Main Personality	Ultra Rare	Hero	Level 4
+Trunks -- Returned	Evolution	eS001	Main Personality	Starter	Hero	Level 1
+Trunks -- Swordmaster	Evolution	eS002	Main Personality	Starter	Hero	Level 2
+Trunks -- Defiant	Evolution	eS003	Main Personality	Starter	Hero	Level 3
+Trunks -- Overpowering	Evolution	eS004	Main Personality	Starter	Hero	Level 4
+Saiyan Rampaging Mastery	Evolution	eS005	Mastery	Starter	Saiyan	
+Goku -- Relaxed	Evolution	eS006	Main Personality	Starter	Hero	Level 1
+Goku -- Motivated	Evolution	eS007	Main Personality	Starter	Hero	Level 2
+Goku -- Calm	Evolution	eS008	Main Personality	Starter	Hero	Level 3
+Goku -- Dashing	Evolution	eS009	Main Personality	Starter	Hero	Level 4
+Blue Tag Team Mastery	Evolution	eS010	Mastery	Starter	Blue	
+Piccolo -- Composed	Evolution	eS011	Main Personality	Starter	Hero	Level 1
+Piccolo -- Anticipating	Evolution	eS012	Main Personality	Starter	Hero	Level 2
+Piccolo -- Ferocious	Evolution	eS013	Main Personality	Starter	Hero	Level 3
+Piccolo -- Revitalized	Evolution	eS014	Main Personality	Starter	Hero	Level 4
+Namekian Restored Mastery	Evolution	eS015	Mastery	Starter	Namekian	
+Vegeta -- Calculating	Evolution	eS016	Main Personality	Starter	Hero	Level 1
+Vegeta -- On The Move	Evolution	eS017	Main Personality	Starter	Hero	Level 2
+Vegeta -- Super Saiyan	Evolution	eS018	Main Personality	Starter	Hero	Level 3
+Vegeta -- Elite	Evolution	eS019	Main Personality	Starter	Hero	Level 4
+Orange Adept Mastery	Evolution	eS020	Mastery	Starter	Orange	
+Android 17 -- Judgmental	Evolution	eS021	Main Personality	Starter	Villain	Level 1
+Android 17 -- Imposing	Evolution	eS022	Main Personality	Starter	Villain	Level 2
+Android 17 -- Battle Ready	Evolution	eS023	Main Personality	Starter	Villain	Level 3
+Android 17 -- In Action	Evolution	eS024	Main Personality	Starter	Villain	Level 4
+Red Ruthless Mastery	Evolution	eS025	Mastery	Starter	Red	
+Android 18 -- Directing	Evolution	eS026	Main Personality	Starter	Villain	Level 1
+Android 18 -- Threatening	Evolution	eS027	Main Personality	Starter	Villain	Level 2
+Android 18 -- Effective	Evolution	eS028	Main Personality	Starter	Villain	Level 3
+Android 18 -- Determined	Evolution	eS029	Main Personality	Starter	Villain	Level 4
+Black Perceptive Mastery	Evolution	eS030	Mastery	Starter	Black	
+Stare Down	Evolution	eS031	Event	Starter	Freestyle	
+Confrontation	Evolution	eS032	Event	Starter	Freestyle	
+Black Power Up	Evolution	eS033	Setup	Starter	Black	
+Black Radiating Drill	Evolution	eS034	Drill	Starter	Black	
+Black Smoothness Drill	Evolution	eS035	Drill	Starter	Black	
+Black Fist Lock	Evolution	eS036	Physical Combat	Starter	Black	
+Black Overpowering Attack	Evolution	eS037	Physical Combat	Starter	Black	
+Black Upward Dodge	Evolution	eS038	Physical Combat	Starter	Black	
+Black Blinding Burst	Evolution	eS039	Energy Combat	Starter	Black	
+Black Defensive Burst	Evolution	eS040	Physical Combat	Starter	Black	
+Black Dismissal	Evolution	eS041	Physical Combat	Starter	Black	
+Black Energy Toss	Evolution	eS042	Energy Combat	Starter	Black	
+Black Energy Web	Evolution	eS043	Energy Combat	Starter	Black	
+Black Enraged Assault	Evolution	eS044	Physical Combat	Starter	Black	
+Black Finger Block	Evolution	eS045	Physical Combat	Starter	Black	
+Black Flying Kick	Evolution	eS046	Physical Combat	Starter	Black	
+Black Foreshadowing	Evolution	eS047	Event	Starter	Black	
+Black Hair Trap	Evolution	eS048	Physical Combat	Starter	Black	
+Black Hug Maneuver	Evolution	eS049	Physical Combat	Starter	Black	
+Black Interceptor Barrage	Evolution	eS050	Energy Combat	Starter	Black	
+Black Knee Catch	Evolution	eS051	Physical Combat	Starter	Black	
+Black Lightning Storm	Evolution	eS052	Energy Combat	Starter	Black	
+Black Lunge	Evolution	eS053	Physical Combat	Starter	Black	
+Black Overhead Burst	Evolution	eS054	Energy Combat	Starter	Black	
+Black Resistance	Evolution	eS055	Energy Combat	Starter	Black	
+Black Speedy Dodge	Evolution	eS056	Energy Combat	Starter	Black	
+Black Stop	Evolution	eS057	Physical Combat	Starter	Black	
+Black Strike	Evolution	eS058	Physical Combat	Starter	Black	
+Black Swipe	Evolution	eS059	Energy Combat	Starter	Black	
+Tenshinhan -- Returned	Evolution	eS060	Ally	Starter	Hero	Level 1
+Blue Blockade	Evolution	eS061	Setup	Starter	Blue	
+Blue Ki Build Up	Evolution	eS062	Setup	Starter	Blue	
+Blue Stretch Kick	Evolution	eS063	Setup	Starter	Blue	
+Blue Biting Drill	Evolution	eS064	Drill	Starter	Blue	
+Blue Mental Drill	Evolution	eS065	Drill	Starter	Blue	
+Blue Face Crunch	Evolution	eS066	Physical Combat	Starter	Blue	
+Blue Arm Blast	Evolution	eS067	Energy Combat	Starter	Blue	
+Blue Barrier	Evolution	eS068	Energy Combat	Starter	Blue	
+Blue Betrayal	Evolution	eS069	Physical Combat	Starter	Blue	
+Blue Crouch	Evolution	eS070	Physical Combat	Starter	Blue	
+Blue Defensive Effect	Evolution	eS071	Event	Starter	Blue	
+Blue Defensive Stance	Evolution	eS072	Energy Combat	Starter	Blue	
+Blue Encircled Strike	Evolution	eS073	Physical Combat	Starter	Blue	
+Blue Fist Catch	Evolution	eS074	Physical Combat	Starter	Blue	
+Blue Head Knock	Evolution	eS075	Physical Combat	Starter	Blue	
+Blue Narrow Escape	Evolution	eS076	Energy Combat	Starter	Blue	
+Blue Reprimand	Evolution	eS077	Event	Starter	Blue	
+Blue Round Throw	Evolution	eS078	Physical Combat	Starter	Blue	
+Blue Safeguard	Evolution	eS079	Physical Combat	Starter	Blue	
+Blue Wrist Block	Evolution	eS080	Physical Combat	Starter	Blue	
+Namek Dragon Ball 6	Evolution	eS081	Dragon Ball	Starter	Freestyle	
+Namekian Concentration	Evolution	eS082	Setup	Starter	Namekian	
+Namekian Fusion	Evolution	eS083	Setup	Starter	Namekian	
+Namekian Chin Grab	Evolution	eS084	Physical Combat	Starter	Namekian	
+Namekian Chop	Evolution	eS085	Physical Combat	Starter	Namekian	
+Namekian Crushing Slam	Evolution	eS086	Physical Combat	Starter	Namekian	
+Namekian Energy Guard	Evolution	eS087	Energy Combat	Starter	Namekian	
+Namekian Energy Toss	Evolution	eS088	Energy Combat	Starter	Namekian	
+Namekian Focused Beams	Evolution	eS089	Energy Combat	Starter	Namekian	
+Namekian Forceful Block	Evolution	eS090	Physical Combat	Starter	Namekian	
+Namekian Gut Punch	Evolution	eS091	Physical Combat	Starter	Namekian	
+Namekian Maximum Will	Evolution	eS092	Energy Combat	Starter	Namekian	
+Namekian Narrow Escape	Evolution	eS093	Physical Combat	Starter	Namekian	
+Namekian Onslaught	Evolution	eS094	Energy Combat	Starter	Namekian	
+Namekian Pound	Evolution	eS095	Physical Combat	Starter	Namekian	
+Namekian Regeneration	Evolution	eS096	Event	Starter	Namekian	
+Namekian Reinforced Block	Evolution	eS097	Physical Combat	Starter	Namekian	
+Namekian Right Throw	Evolution	eS098	Physical Combat	Starter	Namekian	
+Namekian Side Kick	Evolution	eS099	Physical Combat	Starter	Namekian	
+Namekian Sudden Blast	Evolution	eS100	Energy Combat	Starter	Namekian	
+Namekian Zone Pressure	Evolution	eS101	Physical Combat	Starter	Namekian	
+Orange Celebration	Evolution	eS102	Setup	Starter	Orange	
+Orange Energy Gathering	Evolution	eS103	Setup	Starter	Orange	
+Orange Aura Drill	Evolution	eS104	Drill	Starter	Orange	
+Orange Calming Drill	Evolution	eS105	Drill	Starter	Orange	
+Orange Empowered Drill	Evolution	eS106	Drill	Starter	Orange	
+Orange Joint Restraint Drill	Evolution	eS107	Drill	Starter	Orange	
+Orange Confidence	Evolution	eS108	Physical Combat	Starter	Orange	
+Orange Cover Up	Evolution	eS109	Physical Combat	Starter	Orange	
+Orange Distracting Beam	Evolution	eS110	Energy Combat	Starter	Orange	
+Orange Energy Absorption	Evolution	eS111	Energy Combat	Starter	Orange	
+Orange Energy Evasion	Evolution	eS112	Energy Combat	Starter	Orange	
+Orange Eruption	Evolution	eS113	Energy Combat	Starter	Orange	
+Orange Excavation	Evolution	eS114	Event	Starter	Orange	
+Orange Extension	Evolution	eS115	Physical Combat	Starter	Orange	
+Orange Inspection	Evolution	eS116	Event	Starter	Orange	
+Orange Launcher	Evolution	eS117	Physical Combat	Starter	Orange	
+Orange Offensive Strike	Evolution	eS118	Energy Combat	Starter	Orange	
+Orange Palm Blasts	Evolution	eS119	Energy Combat	Starter	Orange	
+Orange Power Point	Evolution	eS120	Energy Combat	Starter	Orange	
+Orange Precise Shot	Evolution	eS121	Energy Combat	Starter	Orange	
+Orange Quick Dodge	Evolution	eS122	Physical Combat	Starter	Orange	
+Orange Rage	Evolution	eS123	Energy Combat	Starter	Orange	
+Orange Refocus	Evolution	eS124	Physical Combat	Starter	Orange	
+Orange Revenge	Evolution	eS125	Energy Combat	Starter	Orange	
+Orange Saving Kick	Evolution	eS126	Physical Combat	Starter	Orange	
+Orange Stare Down	Evolution	eS127	Energy Combat	Starter	Orange	
+Orange Truck Lift	Evolution	eS128	Physical Combat	Starter	Orange	
+Red Blaze	Evolution	eS129	Setup	Starter	Red	
+Red Burning Rage	Evolution	eS130	Setup	Starter	Red	
+Red Hunting Drill	Evolution	eS131	Drill	Starter	Red	
+Red Tactical Drill	Evolution	eS132	Drill	Starter	Red	
+Red Back Kick	Evolution	eS133	Physical Combat	Starter	Red	
+Red Blazing Aura	Evolution	eS134	Event	Starter	Red	
+Red Blocking Hand	Evolution	eS135	Physical Combat	Starter	Red	
+Red Burning Stance	Evolution	eS136	Physical Combat	Starter	Red	
+Red Double Strike	Evolution	eS137	Physical Combat	Starter	Red	
+Red Energy Blast	Evolution	eS138	Energy Combat	Starter	Red	
+Red Energy Outburst	Evolution	eS139	Energy Combat	Starter	Red	
+Red Energy Shield	Evolution	eS140	Energy Combat	Starter	Red	
+Red Face Break	Evolution	eS141	Physical Combat	Starter	Red	
+Red Freezing Beam	Evolution	eS142	Energy Combat	Starter	Red	
+Red Frenzied Blasts	Evolution	eS143	Energy Combat	Starter	Red	
+Red Heating Beams	Evolution	eS144	Energy Combat	Starter	Red	
+Red Hop	Evolution	eS145	Energy Combat	Starter	Red	
+Red Jump Kick	Evolution	eS146	Physical Combat	Starter	Red	
+Red Lifting Kick	Evolution	eS147	Physical Combat	Starter	Red	
+Red Lightning Slash	Evolution	eS148	Physical Combat	Starter	Red	
+Red Power Lift	Evolution	eS149	Physical Combat	Starter	Red	
+Red Power Punch	Evolution	eS150	Physical Combat	Starter	Red	
+Red Right Cross	Evolution	eS151	Physical Combat	Starter	Red	
+Red Shattering Leap	Evolution	eS152	Physical Combat	Starter	Red	
+Red Slide	Evolution	eS153	Physical Combat	Starter	Red	
+Red Surrounded Beams	Evolution	eS154	Energy Combat	Starter	Red	
+Saiyan Offensive Rush	Evolution	eS155	Setup	Starter	Saiyan	
+Saiyan Blocking Technique	Evolution	eS156	Physical Combat	Starter	Saiyan	
+Saiyan Hand Swipe	Evolution	eS157	Physical Combat	Starter	Saiyan	
+Saiyan Arm Catch	Evolution	eS158	Physical Combat	Starter	Saiyan	
+Saiyan Direct Strike	Evolution	eS159	Physical Combat	Starter	Saiyan	
+Saiyan Energy Deflection	Evolution	eS160	Energy Combat	Starter	Saiyan	
+Saiyan Enjoyment	Evolution	eS161	Event	Starter	Saiyan	
+Saiyan Evasion	Evolution	eS162	Physical Combat	Starter	Saiyan	
+Saiyan Foot Stomp	Evolution	eS163	Physical Combat	Starter	Saiyan	
+Saiyan Gut Kick	Evolution	eS164	Physical Combat	Starter	Saiyan	
+Saiyan Headbutt	Evolution	eS165	Physical Combat	Starter	Saiyan	
+Saiyan Left Kick	Evolution	eS166	Physical Combat	Starter	Saiyan	
+Saiyan Light Jab	Evolution	eS167	Physical Combat	Starter	Saiyan	
+Saiyan Multi-blast	Evolution	eS168	Energy Combat	Starter	Saiyan	
+Saiyan Pinpoint Blast	Evolution	eS169	Energy Combat	Starter	Saiyan	
+Saiyan Prelude	Evolution	eS170	Event	Starter	Saiyan	
+Saiyan Preparation	Evolution	eS171	Event	Starter	Saiyan	
+Saiyan Sabotage	Evolution	eS172	Physical Combat	Starter	Saiyan	
+Saiyan Scouting	Evolution	eS173	Event	Starter	Saiyan	
+Saiyan Spin Kick	Evolution	eS174	Physical Combat	Starter	Saiyan	
+Saiyan Swat	Evolution	eS175	Energy Combat	Starter	Saiyan	

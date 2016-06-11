@@ -1,336 +1,336 @@
-Name	Set	ImageFile	Type	Rarity
-Vegeta -- Prince of Saiyans	Premiere	 s001	TBD	Starter
-Vegeta -- Villainous	Premiere	 s002	TBD	Starter
-Vegeta -- Empowered	Premiere	 s003	TBD	Starter
-Vegeta -- Renewed	Premiere	 s004	TBD	Starter
-Goku -- Protector of Earth	Premiere	 s005	TBD	Starter
-Goku -- Kaio-Ken Enhanced	Premiere	 s006	TBD	Starter
-Goku -- Energy Gatherer	Premiere	 s007	TBD	Starter
-Goku -- Super Saiyan	Premiere	 s008	TBD	Starter
-Gohan -- Resilient Child	Premiere	 s009	TBD	Starter
-Gohan -- Young Warrior	Premiere	 s010	TBD	Starter
-Gohan -- Determined	Premiere	 s011	TBD	Starter
-Gohan -- Armored	Premiere	 s012	TBD	Starter
-Krillin -- Ready	Premiere	 s013	TBD	Starter
-Krillin -- Energetic	Premiere	 s014	TBD	Starter
-Krillin -- Ready For Battle	Premiere	 s015	TBD	Starter
-Krillin -- Enraged	Premiere	 s016	TBD	Starter
-Frieza -- Tyrant	Premiere	 s017	TBD	Starter
-Frieza -- Transformed	Premiere	 s018	TBD	Starter
-Frieza -- Galactic Conquerer	Premiere	 s019	TBD	Starter
-Frieza -- Revived	Premiere	 s020	TBD	Starter
-Piccolo -- Stoic	Premiere	 s021	TBD	Starter
-Piccolo -- Combat Stance	Premiere	 s022	TBD	Starter
-Piccolo -- Unleashed	Premiere	 s023	TBD	Starter
-Piccolo -- Fused	Premiere	 s024	TBD	Starter
-Saiyan Empowered Mastery	Premiere	 s025	TBD	Starter
-Orange Adaptive Mastery	Premiere	 s026	TBD	Starter
-Red Enraged Mastery	Premiere	 s027	TBD	Starter
-Black Devious Mastery	Premiere	 s028	TBD	Starter
-Blue Protective Mastery	Premiere	 s029	TBD	Starter
-Namekian Knowledge Mastery	Premiere	 s030	TBD	Starter
-Black Power Up	Premiere	 s031	TBD	Starter
-Blue Stretch Kick	Premiere	 s032	TBD	Starter
-Namekian Concentration	Premiere	 s033	TBD	Starter
-Orange Energy Gathering	Premiere	 s034	TBD	Starter
-Red Burning Rage	Premiere	 s035	TBD	Starter
-Saiyan Offensive Rush	Premiere	 s036	TBD	Starter
-Black Targeting Drill	Premiere	 s037	TBD	Starter
-Blue Mental Drill	Premiere	 s038	TBD	Starter
-Namekian Combat Drill	Premiere	 s039	TBD	Starter
-Orange Devouring Drill	Premiere	 s040	TBD	Starter
-Orange Energy Dan Drill	Premiere	 s041	TBD	Starter
-Orange Steady Drill	Premiere	 s042	TBD	Starter
-Red Tactical Drill	Premiere	 s043	TBD	Starter
-Saiyan Retaliation Drill	Premiere	 s044	TBD	Starter
-Black Command	Premiere	 s045	TBD	Starter
-Blue Reprimand	Premiere	 s046	TBD	Starter
-Namekian Silencing	Premiere	 s047	TBD	Starter
-Orange Excavation	Premiere	 s048	TBD	Starter
-Red Blazing Aura	Premiere	 s049	TBD	Starter
-Saiyan Prelude	Premiere	 s050	TBD	Starter
-Black Lightning Storm	Premiere	 s051	TBD	Starter
-Black Capture	Premiere	 s052	TBD	Starter
-Blue Arm Blast	Premiere	 s053	TBD	Starter
-Blue Energy Overload	Premiere	 s054	TBD	Starter
-Namekian Overhead Blast	Premiere	 s055	TBD	Starter
-Namekian Focused Beams	Premiere	 s056	TBD	Starter
-Orange Palm Blasts	Premiere	 s057	TBD	Starter
-Orange Rage	Premiere	 s058	TBD	Starter
-Red Heating Beams	Premiere	 s059	TBD	Starter
-Red Energy Blast	Premiere	 s060	TBD	Starter
-Red Energy Outburst	Premiere	 s061	TBD	Starter
-Saiyan Triangle Beams	Premiere	 s062	TBD	Starter
-Saiyan Energy Rupture	Premiere	 s063	TBD	Starter
-Black Swipe	Premiere	 s064	TBD	Starter
-Blue Guard	Premiere	 s065	TBD	Starter
-Blue Avoidance	Premiere	 s066	TBD	Starter
-Namekian Crossed Guard	Premiere	 s067	TBD	Starter
-Orange Energy Evasion	Premiere	 s068	TBD	Starter
-Red Energy Defensive Stance	Premiere	 s069	TBD	Starter
-Saiyan Focus	Premiere	 s070	TBD	Starter
-Black Defensive Burst	Premiere	 s071	TBD	Starter
-Black Entanglement	Premiere	 s072	TBD	Starter
-Black Side Thrust	Premiere	 s073	TBD	Starter
-Blue Torpedo	Premiere	 s074	TBD	Starter
-Blue Round Throw	Premiere	 s075	TBD	Starter
-Namekian Crushing Slam	Premiere	 s076	TBD	Starter
-Namekian Elbow Strike	Premiere	 s077	TBD	Starter
-Orange Truck Lift	Premiere	 s078	TBD	Starter
-Red Lifting Kick	Premiere	 s079	TBD	Starter
-Red Power Lift	Premiere	 s080	TBD	Starter
-Saiyan Direct Strike	Premiere	 s081	TBD	Starter
-Saiyan Flying Tackle	Premiere	 s082	TBD	Starter
-Saiyan Left Kick	Premiere	 s083	TBD	Starter
-Saiyan Sabotage	Premiere	 s084	TBD	Starter
-Black Finger Block	Premiere	 s085	TBD	Starter
-Blue Fist Catch	Premiere	 s086	TBD	Starter
-Blue Wrist Block	Premiere	 s087	TBD	Starter
-Namekian Knee Block	Premiere	 s088	TBD	Starter
-Namekian Narrow Escape	Premiere	 s089	TBD	Starter
-Red Catch	Premiere	 s090	TBD	Starter
-Blue Ki Build Up	Premiere	 s091	TBD	Starter
-Namekian Fusion	Premiere	 s092	TBD	Starter
-Orange Celebration	Premiere	 s093	TBD	Starter
-Red Blaze	Premiere	 s094	TBD	Starter
-Saiyan Enraged	Premiere	 s095	TBD	Starter
-Black Smoothness Drill	Premiere	 s096	TBD	Starter
-Blue Positioning Drill	Premiere	 s097	TBD	Starter
-Namekian Heritage Drill	Premiere	 s098	TBD	Starter
-Orange Burning Aura Drill	Premiere	 s099	TBD	Starter
-Orange Guardian Drill	Premiere	 s100	TBD	Starter
-Orange Hiding Drill	Premiere	 s101	TBD	Starter
-Red Intimidation Drill	Premiere	 s102	TBD	Starter
-Saiyan Analysis Drill	Premiere	 s103	TBD	Starter
-Black Taunt	Premiere	 s104	TBD	Starter
-Blue Rest	Premiere	 s105	TBD	Starter
-Namekian Regeneration	Premiere	 s106	TBD	Starter
-Orange Destruction	Premiere	 s107	TBD	Starter
-Red Burning Stance	Premiere	 s108	TBD	Starter
-Saiyan Preparation	Premiere	 s109	TBD	Starter
-Black Energy Toss	Premiere	 s110	TBD	Starter
-Black Interceptor Barrage	Premiere	 s111	TBD	Starter
-Black Energy Web	Premiere	 s112	TBD	Starter
-Blue Neck Beam	Premiere	 s113	TBD	Starter
-Namekian Double Palm Burst	Premiere	 s114	TBD	Starter
-Namekian Sudden Blast	Premiere	 s115	TBD	Starter
-Orange Power Point	Premiere	 s116	TBD	Starter
-Orange Stare Down	Premiere	 s117	TBD	Starter
-Red Frenzied Blasts	Premiere	 s118	TBD	Starter
-Red Surrounded Beams	Premiere	 s119	TBD	Starter
-Red Static Shot	Premiere	 s120	TBD	Starter
-Saiyan Diving Burst	Premiere	 s121	TBD	Starter
-Saiyan Straight Shot	Premiere	 s122	TBD	Starter
-Black Speedy Dodge	Premiere	 s123	TBD	Starter
-Blue Defensive Stance	Premiere	 s124	TBD	Starter
-Blue Narrow Escape	Premiere	 s125	TBD	Starter
-Namekian Stance	Premiere	 s126	TBD	Starter
-Namekian Energy Guard	Premiere	 s127	TBD	Starter
-Orange Energy Catch	Premiere	 s128	TBD	Starter
-Red Energy Shield	Premiere	 s129	TBD	Starter
-Saiyan Energy Deflection	Premiere	 s130	TBD	Starter
-Black Flying Kick	Premiere	 s131	TBD	Starter
-Black Left Kick	Premiere	 s132	TBD	Starter
-Black Jab	Premiere	 s133	TBD	Starter
-Black Strike	Premiere	 s134	TBD	Starter
-Blue Fist Smash	Premiere	 s135	TBD	Starter
-Namekian Pound	Premiere	 s136	TBD	Starter
-Namekian Side Kick	Premiere	 s137	TBD	Starter
-Orange Launcher	Premiere	 s138	TBD	Starter
-Red Right Cross	Premiere	 s139	TBD	Starter
-Red Power Rush	Premiere	 s140	TBD	Starter
-Saiyan Face Stomp	Premiere	 s141	TBD	Starter
-Saiyan Light Jab	Premiere	 s142	TBD	Starter
-Blue Crouch	Premiere	 s143	TBD	Starter
-Blue Swift Block	Premiere	 s144	TBD	Starter
-Namekian Forceful Block	Premiere	 s145	TBD	Starter
-Orange Cover Up	Premiere	 s146	TBD	Starter
-Orange Quick Dodge	Premiere	 s147	TBD	Starter
-Red Blocking Hand	Premiere	 s148	TBD	Starter
-Saiyan Arm Catch	Premiere	 s149	TBD	Starter
-Saiyan Lightning Dodge	Premiere	 s150	TBD	Starter
-Namek Dragon Ball 1	Premiere	 c001	TBD	Common
-Namek Dragon Ball 2	Premiere	 c002	TBD	Common
-Namek Dragon Ball 3	Premiere	 c003	TBD	Common
-Trunks -- Inquisitive	Premiere	 c004	TBD	Common
-Trunks -- Resolved	Premiere	 c005	TBD	Common
-Captain Ginyu -- Leader	Premiere	 c006	TBD	Common
-Captain Ginyu -- Energized	Premiere	 c007	TBD	Common
-Chaozu -- Resurrected	Premiere	 c008	TBD	Common
-Tenshinhan -- Returned	Premiere	 c009	TBD	Common
-Guldo -- Ginyu Force	Premiere	 c010	TBD	Common
-Recoome -- Ginyu Force	Premiere	 c011	TBD	Common
-Nappa -- Space Traveler	Premiere	 c012	TBD	Common
-Black Erasing Drill	Premiere	 c013	TBD	Common
-Black Concussive Blast	Premiere	 c014	TBD	Common
-Black Corruption	Premiere	 c015	TBD	Common
-Black Hug Maneuver	Premiere	 c016	TBD	Common
-Black Knee Catch	Premiere	 c017	TBD	Common
-Black Lunge	Premiere	 c018	TBD	Common
-Black Punishment	Premiere	 c019	TBD	Common
-Blue Battle Readiness	Premiere	 c020	TBD	Common
-Blue Trick	Premiere	 c021	TBD	Common
-Blue Battle Drill	Premiere	 c022	TBD	Common
-Blue Biting Drill	Premiere	 c023	TBD	Common
-Blue Defensive Effect	Premiere	 c024	TBD	Common
-Blue Defensive Flight	Premiere	 c025	TBD	Common
-Blue Draining Blast	Premiere	 c026	TBD	Common
-Blue Head Knock	Premiere	 c027	TBD	Common
-Blue Reverse	Premiere	 c028	TBD	Common
-Namekian Chop	Premiere	 c029	TBD	Common
-Namekian Double Strike	Premiere	 c030	TBD	Common
-Namekian Dragon Blast	Premiere	 c031	TBD	Common
-Namekian Energy Toss	Premiere	 c032	TBD	Common
-Namekian Maximum Will	Premiere	 c033	TBD	Common
-Namekian Onslaught	Premiere	 c034	TBD	Common
-Namekian Right Throw	Premiere	 c035	TBD	Common
-Orange Aura Drill	Premiere	 c036	TBD	Common
-Orange Joint Restraint Drill	Premiere	 c037	TBD	Common
-Orange Defensive Blast	Premiere	 c038	TBD	Common
-Orange Distracting Beam	Premiere	 c039	TBD	Common
-Orange Energy Absorption	Premiere	 c040	TBD	Common
-Orange Precise Shot	Premiere	 c041	TBD	Common
-Orange Refocus	Premiere	 c042	TBD	Common
-Orange Revenge	Premiere	 c043	TBD	Common
-Red Hunting Drill	Premiere	 c044	TBD	Common
-Red Back Kick	Premiere	 c045	TBD	Common
-Red Double Strike	Premiere	 c046	TBD	Common
-Red Duck	Premiere	 c047	TBD	Common
-Red Flares	Premiere	 c048	TBD	Common
-Red Shattering Leap	Premiere	 c049	TBD	Common
-Red Shoulder Grab	Premiere	 c050	TBD	Common
-Saiyan Cheap Shot	Premiere	 c051	TBD	Common
-Saiyan Energy Focus	Premiere	 c052	TBD	Common
-Saiyan Clothesline	Premiere	 c053	TBD	Common
-Saiyan Energy Toss	Premiere	 c054	TBD	Common
-Saiyan Foot Stomp	Premiere	 c055	TBD	Common
-Saiyan Pinpoint Blast	Premiere	 c056	TBD	Common
-Saiyan Scouting	Premiere	 c057	TBD	Common
-Saiyan Supreme Block	Premiere	 c058	TBD	Common
-Saiyan Uppercut	Premiere	 c059	TBD	Common
-It's Over 9,000!	Premiere	 c060	TBD	Common
-Namek Dragon Ball 4	Premiere	 u061	TBD	Uncommon
-Namek Dragon Ball 5	Premiere	 u062	TBD	Uncommon
-Namek Dragon Ball 6	Premiere	 u063	TBD	Uncommon
-Trunks -- Energy Charged	Premiere	 u064	TBD	Uncommon
-Trunks -- Young Super Saiyan	Premiere	 u065	TBD	Uncommon
-Captain Ginyu -- Body Change	Premiere	 u066	TBD	Uncommon
-Captain Ginyu -- Frog	Premiere	 u067	TBD	Uncommon
-Bulma -- Genius	Premiere	 u068	TBD	Uncommon
-ChiChi -- Armed and Dangerous	Premiere	 u069	TBD	Uncommon
-Yamcha -- Action Ready	Premiere	 u070	TBD	Uncommon
-Burter -- Ginyu Force	Premiere	 u071	TBD	Uncommon
-Jiece -- Ginyu Force	Premiere	 u072	TBD	Uncommon
-Black Searching Technique	Premiere	 u073	TBD	Uncommon
-Black Adaptation	Premiere	 u074	TBD	Uncommon
-Black Barrage	Premiere	 u075	TBD	Uncommon
-Black Delay	Premiere	 u076	TBD	Uncommon
-Black Swerve	Premiere	 u077	TBD	Uncommon
-Black Swirl	Premiere	 u078	TBD	Uncommon
-Blue Blockade	Premiere	 u079	TBD	Uncommon
-Blue Betrayal	Premiere	 u080	TBD	Uncommon
-Blue Farewell	Premiere	 u081	TBD	Uncommon
-Blue Lunar Ray	Premiere	 u082	TBD	Uncommon
-Blue Shifting Maneuver	Premiere	 u083	TBD	Uncommon
-Namekian Wish	Premiere	 u084	TBD	Uncommon
-Namekian Finger Lasers	Premiere	 u085	TBD	Uncommon
-Namekian Flinch	Premiere	 u086	TBD	Uncommon
-Namekian Hybrid Defense	Premiere	 u087	TBD	Uncommon
-Namekian Targeted Strike	Premiere	 u088	TBD	Uncommon
-Namekian Zone Pressure	Premiere	 u089	TBD	Uncommon
-Orange Empowered Drill	Premiere	 u090	TBD	Uncommon
-Orange Energy Phasing Drill	Premiere	 u091	TBD	Uncommon
-Orange Escape	Premiere	 u092	TBD	Uncommon
-Orange Inspection	Premiere	 u093	TBD	Uncommon
-Orange Offensive Strike	Premiere	 u094	TBD	Uncommon
-Orange Overhead Smash	Premiere	 u095	TBD	Uncommon
-Red Despair Drill	Premiere	 u096	TBD	Uncommon
-Red Escape	Premiere	 u097	TBD	Uncommon
-Red Jump Kick	Premiere	 u098	TBD	Uncommon
-Red Lightning Slash	Premiere	 u099	TBD	Uncommon
-Red Power Punch	Premiere	 u100	TBD	Uncommon
-Red Shielded Strike	Premiere	 u101	TBD	Uncommon
-Saiyan Domination	Premiere	 u102	TBD	Uncommon
-Saiyan Gut Kick	Premiere	 u103	TBD	Uncommon
-Saiyan Multi-blast	Premiere	 u104	TBD	Uncommon
-Saiyan Surprise	Premiere	 u105	TBD	Uncommon
-Saiyan Wrist Block	Premiere	 u106	TBD	Uncommon
-Visiting The Past	Premiere	 u107	TBD	Uncommon
-Battle Pausing	Premiere	 u108	TBD	Uncommon
-Blinding Energy Move	Premiere	 u109	TBD	Uncommon
-Devastating Blow	Premiere	 u110	TBD	Uncommon
-Empowered Flying Kick	Premiere	 u111	TBD	Uncommon
-Enraged Blast	Premiere	 u112	TBD	Uncommon
-Overpowering Attack	Premiere	 u113	TBD	Uncommon
-Quickness Drill	Premiere	 u114	TBD	Uncommon
-Frieza's Captive Strike	Premiere	 u115	TBD	Uncommon
-Gohan's Power Punch	Premiere	 u116	TBD	Uncommon
-Goku's Kaio-Ken	Premiere	 u117	TBD	Uncommon
-Krillin's Solar Flare	Premiere	 u118	TBD	Uncommon
-Piccolo's Weighted Clothing	Premiere	 u119	TBD	Uncommon
-Vegeta's Anger	Premiere	 u120	TBD	Uncommon
-Namek Dragon Ball 7	Premiere	 r121	TBD	Rare
-Black Devious Mastery	Premiere	 r122	TBD	Rare
-Black Mischievous Drill	Premiere	 r123	TBD	Rare
-Black Disorienting Blow	Premiere	 r124	TBD	Rare
-Black Reflection	Premiere	 r125	TBD	Rare
-Black Scout Maneuver	Premiere	 r126	TBD	Rare
-Blue Protective Mastery	Premiere	 r127	TBD	Rare
-Blue Lunge	Premiere	 r128	TBD	Rare
-Blue Terror	Premiere	 r129	TBD	Rare
-Blue Trapped Strike	Premiere	 r130	TBD	Rare
-Namekian Knowledge Mastery	Premiere	 r131	TBD	Rare
-Namekian Dragon Clan	Premiere	 r132	TBD	Rare
-Namekian Overtime	Premiere	 r133	TBD	Rare
-Namekian Palm Shots	Premiere	 r134	TBD	Rare
-Namekian Planned Attack	Premiere	 r135	TBD	Rare
-Orange Adaptive Mastery	Premiere	 r136	TBD	Rare
-Orange Focusing Drill	Premiere	 r137	TBD	Rare
-Orange Searching Maneuver	Premiere	 r138	TBD	Rare
-Orange Uppercut	Premiere	 r139	TBD	Rare
-Red Enraged Mastery	Premiere	 r140	TBD	Rare
-Red Forward Stance Drill	Premiere	 r141	TBD	Rare
-Red Heel Kick	Premiere	 r142	TBD	Rare
-Red Left Bolt	Premiere	 r143	TBD	Rare
-Red Observation	Premiere	 r144	TBD	Rare
-Saiyan Empowered Mastery	Premiere	 r145	TBD	Rare
-Saiyan Acute Rapid Slam	Premiere	 r146	TBD	Rare
-Saiyan Elbow Drop	Premiere	 r147	TBD	Rare
-Saiyan Power Up	Premiere	 r148	TBD	Rare
-Dragon Radar	Premiere	 r149	TBD	Rare
-Confrontation	Premiere	 r150	TBD	Rare
-Stare Down	Premiere	 r151	TBD	Rare
-Time Is A Warrior's Tool	Premiere	 r152	TBD	Rare
-Captain Ginyu's Body Switch	Premiere	 r153	TBD	Rare
-Frieza's Supernova	Premiere	 r154	TBD	Rare
-Gohan's Masenko	Premiere	 r155	TBD	Rare
-Goku's Kamehameha	Premiere	 r156	TBD	Rare
-Krillin's Destructo Disk	Premiere	 r157	TBD	Rare
-Piccolo's Special Beam Cannon	Premiere	 r158	TBD	Rare
-Trunks. Sword Slash	Premiere	 r159	TBD	Rare
-Vegeta's Galick Gun	Premiere	 r160	TBD	Rare
-Heroic Plan	Premiere	 ur161	TBD	Ultra Rare
-Villainous Visage	Premiere	 ur162	TBD	Ultra Rare
-Heroic Energy Sphere	Premiere	 ur163	TBD	Ultra Rare
-Villainous Energy Sphere	Premiere	 ur164	TBD	Ultra Rare
-Vegeta -- Prince of Saiyans	Premiere	 p001	TBD	Promo
-Goku -- Protector of Earth	Premiere	 p002	TBD	Promo
-Gohan -- Resilient Child	Premiere	 p003	TBD	Promo
-Krillin -- Ready	Premiere	 p004	TBD	Promo
-Goku -- Super Saiyan God	Premiere	 p005	TBD	Promo
-Piccolo -- Stoic	Premiere	 p006	TBD	Promo
-Goku's Kamehameha	Premiere	 p007	TBD	Promo
-Time Is A Warrior's Tool	Premiere	 p008	TBD	Promo
-Vegeta's Galick Gun	Premiere	 p009	TBD	Promo
-Confrontation	Premiere	 p010	TBD	Promo
-Trunks. Sword Slash	Premiere	 p011	TBD	Promo
-Stare Down	Premiere	 p012	TBD	Promo
-Frieza -- Tyrant	Premiere	 p013	TBD	Promo
-Gohan's Masenko	Premiere	 p014	TBD	Promo
-Frieza's Supernova	Premiere	 p015	TBD	Promo
-Black Scout Maneuver	Premiere	 p016	TBD	Promo
-Piccolo's Special Beam Cannon	Premiere	 p017	TBD	Promo
-Blue Terror	Premiere	 p018	TBD	Promo
-Captain Ginyu's Body Switch	Premiere	 p019	TBD	Promo
-Saiyan Power Up	Premiere	 p020	TBD	Promo
-Krillin's Destructo Disk	Premiere	 p021	TBD	Promo
+Name	Set	ImageFile	Type	Rarity	Style	Keywords
+Vegeta -- Prince of Saiyans	Premiere	s001	Main Personality	Starter	Hero	Level 1
+Vegeta -- Villainous	Premiere	s002	Main Personality	Starter	Villain	Level 2
+Vegeta -- Empowered	Premiere	s003	Main Personality	Starter	Villain	Level 3
+Vegeta -- Renewed	Premiere	s004	Main Personality	Starter	Villain	Level 4
+Goku -- Protector of Earth	Premiere	s005	Main Personality	Starter	Hero	Level 1
+Goku -- Kaio-Ken Enhanced	Premiere	s006	Main Personality	Starter	Hero	Level 2
+Goku -- Energy Gatherer	Premiere	s007	Main Personality	Starter	Hero	Level 3
+Goku -- Super Saiyan	Premiere	s008	Main Personality	Starter	Hero	Level 4
+Gohan -- Resilient Child	Premiere	s009	Main Personality	Starter	Hero	Level 1
+Gohan -- Young Warrior	Premiere	s010	Main Personality	Starter	Hero	Level 2
+Gohan -- Determined	Premiere	s011	Main Personality	Starter	Hero	Level 3
+Gohan -- Armored	Premiere	s012	Main Personality	Starter	Hero	Level 4
+Krillin -- Ready	Premiere	s013	Main Personality	Starter	Hero	Level 1
+Krillin -- Energetic	Premiere	s014	Main Personality	Starter	Hero	Level 2
+Krillin -- Ready For Battle	Premiere	s015	Main Personality	Starter	Hero	Level 3
+Krillin -- Enraged	Premiere	s016	Main Personality	Starter	Hero	Level 4
+Frieza -- Tyrant	Premiere	s017	Main Personality	Starter	Villain	Level 1
+Frieza -- Transformed	Premiere	s018	Main Personality	Starter	Villain	Level 2
+Frieza -- Galactic Conquerer	Premiere	s019	Main Personality	Starter	Villain	Level 3
+Frieza -- Revived	Premiere	s020	Main Personality	Starter	Villain	Level 4
+Piccolo -- Stoic	Premiere	s021	Main Personality	Starter	Hero	Level 1
+Piccolo -- Combat Stance	Premiere	s022	Main Personality	Starter	Hero	Level 2
+Piccolo -- Unleashed	Premiere	s023	Main Personality	Starter	Hero	Level 3
+Piccolo -- Fused	Premiere	s024	Main Personality	Starter	Hero	Level 4
+Saiyan Empowered Mastery	Premiere	s025	Mastery	Starter	Saiyan	
+Orange Adaptive Mastery	Premiere	s026	Mastery	Starter	Orange	
+Red Enraged Mastery	Premiere	s027	Mastery	Starter	Red	
+Black Devious Mastery	Premiere	s028	Mastery	Starter	Black	
+Blue Protective Mastery	Premiere	s029	Mastery	Starter	Blue	
+Namekian Knowledge Mastery	Premiere	s030	Mastery	Starter	Namekian	
+Black Power Up	Premiere	s031	Setup	Starter	Black	
+Blue Stretch Kick	Premiere	s032	Setup	Starter	Blue	
+Namekian Concentration	Premiere	s033	Setup	Starter	Namekian	
+Orange Energy Gathering	Premiere	s034	Setup	Starter	Orange	
+Red Burning Rage	Premiere	s035	Setup	Starter	Red	
+Saiyan Offensive Rush	Premiere	s036	Setup	Starter	Saiyan	
+Black Targeting Drill	Premiere	s037	Drill	Starter	Black	
+Blue Mental Drill	Premiere	s038	Drill	Starter	Blue	
+Namekian Combat Drill	Premiere	s039	Drill	Starter	Namekian	
+Orange Devouring Drill	Premiere	s040	Drill	Starter	Orange	
+Orange Energy Dan Drill	Premiere	s041	Drill	Starter	Orange	
+Orange Steady Drill	Premiere	s042	Drill	Starter	Orange	
+Red Tactical Drill	Premiere	s043	Drill	Starter	Red	
+Saiyan Retaliation Drill	Premiere	s044	Drill	Starter	Saiyan	
+Black Command	Premiere	s045	Event	Starter	Black	
+Blue Reprimand	Premiere	s046	Event	Starter	Blue	
+Namekian Silencing	Premiere	s047	Event	Starter	Namekian	
+Orange Excavation	Premiere	s048	Event	Starter	Orange	
+Red Blazing Aura	Premiere	s049	Event	Starter	Red	
+Saiyan Prelude	Premiere	s050	Event	Starter	Saiyan	
+Black Lightning Storm	Premiere	s051	Energy Combat	Starter	Black	
+Black Capture	Premiere	s052	Energy Combat	Starter	Black	
+Blue Arm Blast	Premiere	s053	Energy Combat	Starter	Blue	
+Blue Energy Overload	Premiere	s054	Energy Combat	Starter	Blue	
+Namekian Overhead Blast	Premiere	s055	Energy Combat	Starter	Namekian	
+Namekian Focused Beams	Premiere	s056	Energy Combat	Starter	Namekian	
+Orange Palm Blasts	Premiere	s057	Energy Combat	Starter	Orange	
+Orange Rage	Premiere	s058	Energy Combat	Starter	Orange	
+Red Heating Beams	Premiere	s059	Energy Combat	Starter	Red	
+Red Energy Blast	Premiere	s060	Energy Combat	Starter	Red	
+Red Energy Outburst	Premiere	s061	Energy Combat	Starter	Red	
+Saiyan Triangle Beams	Premiere	s062	Energy Combat	Starter	Saiyan	
+Saiyan Energy Rupture	Premiere	s063	Energy Combat	Starter	Saiyan	
+Black Swipe	Premiere	s064	Energy Combat	Starter	Black	
+Blue Guard	Premiere	s065	Energy Combat	Starter	Blue	
+Blue Avoidance	Premiere	s066	Energy Combat	Starter	Blue	
+Namekian Crossed Guard	Premiere	s067	Energy Combat	Starter	Namekian	
+Orange Energy Evasion	Premiere	s068	Energy Combat	Starter	Orange	
+Red Energy Defensive Stance	Premiere	s069	Energy Combat	Starter	Red	
+Saiyan Focus	Premiere	s070	Energy Combat	Starter	Saiyan	
+Black Defensive Burst	Premiere	s071	Physical Combat	Starter	Black	
+Black Entanglement	Premiere	s072	Physical Combat	Starter	Black	
+Black Side Thrust	Premiere	s073	Physical Combat	Starter	Black	
+Blue Torpedo	Premiere	s074	Physical Combat	Starter	Blue	
+Blue Round Throw	Premiere	s075	Physical Combat	Starter	Blue	
+Namekian Crushing Slam	Premiere	s076	Physical Combat	Starter	Namekian	
+Namekian Elbow Strike	Premiere	s077	Physical Combat	Starter	Namekian	
+Orange Truck Lift	Premiere	s078	Physical Combat	Starter	Orange	
+Red Lifting Kick	Premiere	s079	Physical Combat	Starter	Red	
+Red Power Lift	Premiere	s080	Physical Combat	Starter	Red	
+Saiyan Direct Strike	Premiere	s081	Physical Combat	Starter	Saiyan	
+Saiyan Flying Tackle	Premiere	s082	Physical Combat	Starter	Saiyan	
+Saiyan Left Kick	Premiere	s083	Physical Combat	Starter	Saiyan	
+Saiyan Sabotage	Premiere	s084	Physical Combat	Starter	Saiyan	
+Black Finger Block	Premiere	s085	Physical Combat	Starter	Black	
+Blue Fist Catch	Premiere	s086	Physical Combat	Starter	Blue	
+Blue Wrist Block	Premiere	s087	Physical Combat	Starter	Blue	
+Namekian Knee Block	Premiere	s088	Physical Combat	Starter	Namekian	
+Namekian Narrow Escape	Premiere	s089	Physical Combat	Starter	Namekian	
+Red Catch	Premiere	s090	Physical Combat	Starter	Red	
+Blue Ki Build Up	Premiere	s091	Setup	Starter	Blue	
+Namekian Fusion	Premiere	s092	Setup	Starter	Namekian	
+Orange Celebration	Premiere	s093	Setup	Starter	Orange	
+Red Blaze	Premiere	s094	Setup	Starter	Red	
+Saiyan Enraged	Premiere	s095	Setup	Starter	Saiyan	
+Black Smoothness Drill	Premiere	s096	Drill	Starter	Black	
+Blue Positioning Drill	Premiere	s097	Drill	Starter	Blue	
+Namekian Heritage Drill	Premiere	s098	Drill	Starter	Namekian	
+Orange Burning Aura Drill	Premiere	s099	Drill	Starter	Orange	
+Orange Guardian Drill	Premiere	s100	Drill	Starter	Orange	
+Orange Hiding Drill	Premiere	s101	Drill	Starter	Orange	
+Red Intimidation Drill	Premiere	s102	Drill	Starter	Red	
+Saiyan Analysis Drill	Premiere	s103	Drill	Starter	Saiyan	
+Black Taunt	Premiere	s104	Event	Starter	Black	
+Blue Rest	Premiere	s105	Event	Starter	Blue	
+Namekian Regeneration	Premiere	s106	Event	Starter	Namekian	
+Orange Destruction	Premiere	s107	Event	Starter	Orange	
+Red Burning Stance	Premiere	s108	Physical Combat	Starter	Red	
+Saiyan Preparation	Premiere	s109	Event	Starter	Saiyan	
+Black Energy Toss	Premiere	s110	Energy Combat	Starter	Black	
+Black Interceptor Barrage	Premiere	s111	Energy Combat	Starter	Black	
+Black Energy Web	Premiere	s112	Energy Combat	Starter	Black	
+Blue Neck Beam	Premiere	s113	Energy Combat	Starter	Blue	
+Namekian Double Palm Burst	Premiere	s114	Energy Combat	Starter	Namekian	
+Namekian Sudden Blast	Premiere	s115	Energy Combat	Starter	Namekian	
+Orange Power Point	Premiere	s116	Energy Combat	Starter	Orange	
+Orange Stare Down	Premiere	s117	Energy Combat	Starter	Orange	
+Red Frenzied Blasts	Premiere	s118	Energy Combat	Starter	Red	
+Red Surrounded Beams	Premiere	s119	Energy Combat	Starter	Red	
+Red Static Shot	Premiere	s120	Energy Combat	Starter	Red	
+Saiyan Diving Burst	Premiere	s121	Energy Combat	Starter	Saiyan	
+Saiyan Straight Shot	Premiere	s122	Energy Combat	Starter	Saiyan	
+Black Speedy Dodge	Premiere	s123	Energy Combat	Starter	Black	
+Blue Defensive Stance	Premiere	s124	Energy Combat	Starter	Blue	
+Blue Narrow Escape	Premiere	s125	Energy Combat	Starter	Blue	
+Namekian Stance	Premiere	s126	Energy Combat	Starter	Namekian	
+Namekian Energy Guard	Premiere	s127	Energy Combat	Starter	Namekian	
+Orange Energy Catch	Premiere	s128	Energy Combat	Starter	Orange	
+Red Energy Shield	Premiere	s129	Energy Combat	Starter	Red	
+Saiyan Energy Deflection	Premiere	s130	Energy Combat	Starter	Saiyan	
+Black Flying Kick	Premiere	s131	Physical Combat	Starter	Black	
+Black Left Kick	Premiere	s132	Physical Combat	Starter	Black	
+Black Jab	Premiere	s133	Physical Combat	Starter	Black	
+Black Strike	Premiere	s134	Physical Combat	Starter	Black	
+Blue Fist Smash	Premiere	s135	Physical Combat	Starter	Blue	
+Namekian Pound	Premiere	s136	Physical Combat	Starter	Namekian	
+Namekian Side Kick	Premiere	s137	Physical Combat	Starter	Namekian	
+Orange Launcher	Premiere	s138	Physical Combat	Starter	Orange	
+Red Right Cross	Premiere	s139	Physical Combat	Starter	Red	
+Red Power Rush	Premiere	s140	Physical Combat	Starter	Red	
+Saiyan Face Stomp	Premiere	s141	Physical Combat	Starter	Saiyan	
+Saiyan Light Jab	Premiere	s142	Physical Combat	Starter	Saiyan	
+Blue Crouch	Premiere	s143	Physical Combat	Starter	Blue	
+Blue Swift Block	Premiere	s144	Physical Combat	Starter	Blue	
+Namekian Forceful Block	Premiere	s145	Physical Combat	Starter	Namekian	
+Orange Cover Up	Premiere	s146	Physical Combat	Starter	Orange	
+Orange Quick Dodge	Premiere	s147	Physical Combat	Starter	Orange	
+Red Blocking Hand	Premiere	s148	Physical Combat	Starter	Red	
+Saiyan Arm Catch	Premiere	s149	Physical Combat	Starter	Saiyan	
+Saiyan Lightning Dodge	Premiere	s150	Physical Combat	Starter	Saiyan	
+Namek Dragon Ball 1	Premiere	c001	Dragon Ball	Common	Freestyle	
+Namek Dragon Ball 2	Premiere	c002	Dragon Ball	Common	Freestyle	
+Namek Dragon Ball 3	Premiere	c003	Dragon Ball	Common	Freestyle	
+Trunks -- Inquisitive	Premiere	c004	Main Personality	Common	Hero	Level 1
+Trunks -- Resolved	Premiere	c005	Main Personality	Common	Hero	Level 2
+Captain Ginyu -- Leader	Premiere	c006	Main Personality	Common	Villain	Level 1
+Captain Ginyu -- Energized	Premiere	c007	Main Personality	Common	Villain	Level 2
+Chaozu -- Resurrected	Premiere	c008	Ally	Common	Hero	Level 1
+Tenshinhan -- Returned	Premiere	c009	Ally	Common	Hero	Level 1
+Guldo -- Ginyu Force	Premiere	c010	Ally	Common	Villain	Level 1
+Recoome -- Ginyu Force	Premiere	c011	Ally	Common	Villain	Level 1
+Nappa -- Space Traveler	Premiere	c012	Ally	Common	Villain	Level 1
+Black Erasing Drill	Premiere	c013	Drill	Common	Black	
+Black Concussive Blast	Premiere	c014	Energy Combat	Common	Black	
+Black Corruption	Premiere	c015	Energy Combat	Common	Black	
+Black Hug Maneuver	Premiere	c016	Physical Combat	Common	Black	
+Black Knee Catch	Premiere	c017	Physical Combat	Common	Black	
+Black Lunge	Premiere	c018	Physical Combat	Common	Black	
+Black Punishment	Premiere	c019	Energy Combat	Common	Black	
+Blue Battle Readiness	Premiere	c020	Setup	Common	Blue	
+Blue Trick	Premiere	c021	Setup	Common	Blue	
+Blue Battle Drill	Premiere	c022	Drill	Common	Blue	
+Blue Biting Drill	Premiere	c023	Drill	Common	Blue	
+Blue Defensive Effect	Premiere	c024	Event	Common	Blue	
+Blue Defensive Flight	Premiere	c025	Physical Combat	Common	Blue	
+Blue Draining Blast	Premiere	c026	Energy Combat	Common	Blue	
+Blue Head Knock	Premiere	c027	Physical Combat	Common	Blue	
+Blue Reverse	Premiere	c028	Physical Combat	Common	Blue	
+Namekian Chop	Premiere	c029	Physical Combat	Common	Namekian	
+Namekian Double Strike	Premiere	c030	Energy Combat	Common	Namekian	
+Namekian Dragon Blast	Premiere	c031	Energy Combat	Common	Namekian	
+Namekian Energy Toss	Premiere	c032	Energy Combat	Common	Namekian	
+Namekian Maximum Will	Premiere	c033	Energy Combat	Common	Namekian	
+Namekian Onslaught	Premiere	c034	Energy Combat	Common	Namekian	
+Namekian Right Throw	Premiere	c035	Physical Combat	Common	Namekian	
+Orange Aura Drill	Premiere	c036	Drill	Common	Orange	
+Orange Joint Restraint Drill	Premiere	c037	Drill	Common	Orange	
+Orange Defensive Blast	Premiere	c038	Energy Combat	Common	Orange	
+Orange Distracting Beam	Premiere	c039	Energy Combat	Common	Orange	
+Orange Energy Absorption	Premiere	c040	Energy Combat	Common	Orange	
+Orange Precise Shot	Premiere	c041	Energy Combat	Common	Orange	
+Orange Refocus	Premiere	c042	Physical Combat	Common	Orange	
+Orange Revenge	Premiere	c043	Energy Combat	Common	Orange	
+Red Hunting Drill	Premiere	c044	Drill	Common	Red	
+Red Back Kick	Premiere	c045	Physical Combat	Common	Red	
+Red Double Strike	Premiere	c046	Physical Combat	Common	Red	
+Red Duck	Premiere	c047	Physical Combat	Common	Red	
+Red Flares	Premiere	c048	Energy Combat	Common	Red	
+Red Shattering Leap	Premiere	c049	Physical Combat	Common	Red	
+Red Shoulder Grab	Premiere	c050	Physical Combat	Common	Red	
+Saiyan Cheap Shot	Premiere	c051	Energy Combat	Common	Saiyan	
+Saiyan Energy Focus	Premiere	c052	Energy Combat	Common	Saiyan	
+Saiyan Clothesline	Premiere	c053	Physical Combat	Common	Saiyan	
+Saiyan Energy Toss	Premiere	c054	Energy Combat	Common	Saiyan	
+Saiyan Foot Stomp	Premiere	c055	Physical Combat	Common	Saiyan	
+Saiyan Pinpoint Blast	Premiere	c056	Energy Combat	Common	Saiyan	
+Saiyan Scouting	Premiere	c057	Event	Common	Saiyan	
+Saiyan Supreme Block	Premiere	c058	Energy Combat	Common	Saiyan	
+Saiyan Uppercut	Premiere	c059	Physical Combat	Common	Saiyan	
+It's Over 9,000!	Premiere	c060	Event	Common	Freestyle	
+Namek Dragon Ball 4	Premiere	u061	Dragon Ball	Uncommon	Freestyle	
+Namek Dragon Ball 5	Premiere	u062	Dragon Ball	Uncommon	Freestyle	
+Namek Dragon Ball 6	Premiere	u063	Dragon Ball	Uncommon	Freestyle	
+Trunks -- Energy Charged	Premiere	u064	Main Personality	Uncommon	Hero	Level 3
+Trunks -- Young Super Saiyan	Premiere	u065	Main Personality	Uncommon	Hero	Level 4
+Captain Ginyu -- Body Change	Premiere	u066	Main Personality	Uncommon	Villain	Level 3
+Captain Ginyu -- Frog	Premiere	u067	Main Personality	Uncommon	Villain	Level 4
+Bulma -- Genius	Premiere	u068	Ally	Uncommon	Hero	Level 1
+ChiChi -- Armed and Dangerous	Premiere	u069	Ally	Uncommon	Hero	Level 1
+Yamcha -- Action Ready	Premiere	u070	Ally	Uncommon	Hero	Level 1
+Burter -- Ginyu Force	Premiere	u071	Ally	Uncommon	Villain	Level 1
+Jiece -- Ginyu Force	Premiere	u072	Ally	Uncommon	Villain	Level 1
+Black Searching Technique	Premiere	u073	Setup	Uncommon	Black	
+Black Adaptation	Premiere	u074	Event	Uncommon	Black	
+Black Barrage	Premiere	u075	Energy Combat	Uncommon	Black	
+Black Delay	Premiere	u076	Physical Combat	Uncommon	Black	
+Black Swerve	Premiere	u077	Physical Combat	Uncommon	Black	
+Black Swirl	Premiere	u078	Energy Combat	Uncommon	Black	
+Blue Blockade	Premiere	u079	Setup	Uncommon	Blue	
+Blue Betrayal	Premiere	u080	Physical Combat	Uncommon	Blue	
+Blue Farewell	Premiere	u081	Event	Uncommon	Blue	
+Blue Lunar Ray	Premiere	u082	Energy Combat	Uncommon	Blue	
+Blue Shifting Maneuver	Premiere	u083	Event	Uncommon	Blue	
+Namekian Wish	Premiere	u084	Setup	Uncommon	Namekian	
+Namekian Finger Lasers	Premiere	u085	Energy Combat	Uncommon	Namekian	
+Namekian Flinch	Premiere	u086	Physical Combat	Uncommon	Namekian	
+Namekian Hybrid Defense	Premiere	u087	Event	Uncommon	Namekian	
+Namekian Targeted Strike	Premiere	u088	Energy Combat	Uncommon	Namekian	
+Namekian Zone Pressure	Premiere	u089	Physical Combat	Uncommon	Namekian	
+Orange Empowered Drill	Premiere	u090	Drill	Uncommon	Orange	
+Orange Energy Phasing Drill	Premiere	u091	Drill	Uncommon	Orange	
+Orange Escape	Premiere	u092	Setup	Uncommon	Orange	
+Orange Inspection	Premiere	u093	Event	Uncommon	Orange	
+Orange Offensive Strike	Premiere	u094	Energy Combat	Uncommon	Orange	
+Orange Overhead Smash	Premiere	u095	Physical Combat	Uncommon	Orange	
+Red Despair Drill	Premiere	u096	Drill	Uncommon	Red	
+Red Escape	Premiere	u097	Energy Combat	Uncommon	Red	
+Red Jump Kick	Premiere	u098	Physical Combat	Uncommon	Red	
+Red Lightning Slash	Premiere	u099	Physical Combat	Uncommon	Red	
+Red Power Punch	Premiere	u100	Physical Combat	Uncommon	Red	
+Red Shielded Strike	Premiere	u101	Physical Combat	Uncommon	Red	
+Saiyan Domination	Premiere	u102	Energy Combat	Uncommon	Saiyan	
+Saiyan Gut Kick	Premiere	u103	Physical Combat	Uncommon	Saiyan	
+Saiyan Multi-blast	Premiere	u104	Energy Combat	Uncommon	Saiyan	
+Saiyan Surprise	Premiere	u105	Physical Combat	Uncommon	Saiyan	
+Saiyan Wrist Block	Premiere	u106	Physical Combat	Uncommon	Saiyan	
+Visiting The Past	Premiere	u107	Setup	Uncommon	Freestyle	
+Battle Pausing	Premiere	u108	Event	Uncommon	Freestyle	
+Blinding Energy Move	Premiere	u109	Energy Combat	Uncommon	Freestyle	
+Devastating Blow	Premiere	u110	Physical Combat	Uncommon	Freestyle	
+Empowered Flying Kick	Premiere	u111	Physical Combat	Uncommon	Freestyle	
+Enraged Blast	Premiere	u112	Energy Combat	Uncommon	Freestyle	
+Overpowering Attack	Premiere	u113	Energy Combat	Uncommon	Freestyle	
+Quickness Drill	Premiere	u114	Drill	Uncommon	Freestyle	
+Frieza's Captive Strike	Premiere	u115	Physical Combat	Uncommon	Named	
+Gohan's Power Punch	Premiere	u116	Physical Combat	Uncommon	Named	
+Goku's Kaio-Ken	Premiere	u117	Event	Uncommon	Named	
+Krillin's Solar Flare	Premiere	u118	Energy Combat	Uncommon	Named	
+Piccolo's Weighted Clothing	Premiere	u119	Event	Uncommon	Named	
+Vegeta's Anger	Premiere	u120	Event	Uncommon	Named	
+Namek Dragon Ball 7	Premiere	r121	Dragon Ball	Rare	Freestyle	
+Black Devious Mastery	Premiere	r122	Mastery	Rare	Black	
+Black Mischievous Drill	Premiere	r123	Drill	Rare	Black	
+Black Disorienting Blow	Premiere	r124	Physical Combat	Rare	Black	
+Black Reflection	Premiere	r125	Event	Rare	Black	
+Black Scout Maneuver	Premiere	r126	Event	Rare	Black	
+Blue Protective Mastery	Premiere	r127	Mastery	Rare	Blue	
+Blue Lunge	Premiere	r128	Physical Combat	Rare	Blue	
+Blue Terror	Premiere	r129	Energy Combat	Rare	Blue	
+Blue Trapped Strike	Premiere	r130	Physical Combat	Rare	Blue	
+Namekian Knowledge Mastery	Premiere	r131	Mastery	Rare	Namekian	
+Namekian Dragon Clan	Premiere	r132	Setup	Rare	Namekian	
+Namekian Overtime	Premiere	r133	Event	Rare	Namekian	
+Namekian Palm Shots	Premiere	r134	Energy Combat	Rare	Namekian	
+Namekian Planned Attack	Premiere	r135	Energy Combat	Rare	Namekian	
+Orange Adaptive Mastery	Premiere	r136	Mastery	Rare	Orange	
+Orange Focusing Drill	Premiere	r137	Drill	Rare	Orange	
+Orange Searching Maneuver	Premiere	r138	Physical Combat	Rare	Orange	
+Orange Uppercut	Premiere	r139	Physical Combat	Rare	Orange	
+Red Enraged Mastery	Premiere	r140	Mastery	Rare	Red	
+Red Forward Stance Drill	Premiere	r141	Drill	Rare	Red	
+Red Heel Kick	Premiere	r142	Physical Combat	Rare	Red	
+Red Left Bolt	Premiere	r143	Energy Combat	Rare	Red	
+Red Observation	Premiere	r144	Event	Rare	Red	
+Saiyan Empowered Mastery	Premiere	r145	Mastery	Rare	Saiyan	
+Saiyan Acute Rapid Slam	Premiere	r146	Physical Combat	Rare	Saiyan	
+Saiyan Elbow Drop	Premiere	r147	Physical Combat	Rare	Saiyan	
+Saiyan Power Up	Premiere	r148	Event	Rare	Saiyan	
+Dragon Radar	Premiere	r149	Setup	Rare	Freestyle	
+Confrontation	Premiere	r150	Event	Rare	Hero	
+Stare Down	Premiere	r151	Event	Rare	Freestyle	
+Time Is A Warrior's Tool	Premiere	r152	Event	Rare	Freestyle	
+Captain Ginyu's Body Switch	Premiere	r153	Event	Rare	Named	
+Frieza's Supernova	Premiere	r154	Energy Combat	Rare	Named	
+Gohan's Masenko	Premiere	r155	Energy Combat	Rare	Named	
+Goku's Kamehameha	Premiere	r156	Energy Combat	Rare	Named	
+Krillin's Destructo Disk	Premiere	r157	Energy Combat	Rare	Named	
+Piccolo's Special Beam Cannon	Premiere	r158	Energy Combat	Rare	Named	
+Trunks' Sword Slash	Premiere	r159	Physical Combat	Rare	Named	
+Vegeta's Galick Gun	Premiere	r160	Energy Combat	Rare	Named	
+Heroic Plan	Premiere	ur161	Setup	Ultra Rare	Hero	
+Villainous Visage	Premiere	ur162	Setup	Ultra Rare	Villain	
+Heroic Energy Sphere	Premiere	ur163	Event	Ultra Rare	Hero	
+Villainous Energy Sphere	Premiere	ur164	Event	Ultra Rare	Villain	
+Vegeta -- Prince of Saiyans	Premiere	p001	Main Personality	Promo	Villain	Level 1
+Goku -- Protector of Earth	Premiere	p002	Main Personality	Promo	Hero	Level 1
+Gohan -- Resilient Child	Premiere	p003	Main Personality	Promo	Hero	Level 1
+Krillin -- Ready	Premiere	p004	Main Personality	Promo	Hero	Level 1
+Goku -- Super Saiyan God	Premiere	p005	Main Personality	Promo	Hero	Level 1
+Piccolo -- Stoic	Premiere	p006	Main Personality	Promo	Hero	Level 1
+Goku's Kamehameha	Premiere	p007	Energy Combat	Promo	Named	
+Time Is A Warrior's Tool	Premiere	p008	Event	Promo	Freestyle	
+Vegeta's Galick Gun	Premiere	p009	Energy Combat	Promo	Named	
+Confrontation	Premiere	p010	Event	Promo	Freestyle	
+Trunks' Sword Slash	Premiere	p011	Physical Combat	Promo	Named	
+Stare Down	Premiere	p012	Event	Promo	Freestyle	
+Frieza -- Tyrant	Premiere	p013	Main Personality	Promo	Villain	Level 1
+Gohan's Masenko	Premiere	p014	Energy Combat	Promo	Named	
+Frieza's Supernova	Premiere	p015	Energy Combat	Promo	Named	
+Black Scout Maneuver	Premiere	p016	Event	Promo	Black	
+Piccolo's Special Beam Cannon	Premiere	p017	Energy Combat	Promo	Named	
+Blue Terror	Premiere	p018	Energy Combat	Promo	Blue	
+Captain Ginyu's Body Switch	Premiere	p019	Event	Promo	Named	
+Saiyan Power Up	Premiere	p020	Event	Promo	Saiyan	
+Krillin's Destructo Disk	Premiere	p021	Energy Combat	Promo	Named	
