@@ -1,15 +1,110 @@
 <plugin>
 
+<playerstat>
+     <label>Anger</label>
+</playerstat>
+
+<deckzone>
+     <label>Deck</label>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Main Personality</label>
+</deckzone>
+
+<deckzone>
+     <label>Mastery</label>
+</deckzone>
+
 <gamezone>
      <label>Hand</label>
      <visibletoowner>yes</visibletoowner>
-     <visibletoothers>no</visibletoothers>
 </gamezone>
 
 <gamezone>
       <label>Deck</label>
-      <visibletoowner>no</visibletoowner>
-      <visibletoothers>no</visibletoothers>
 </gamezone>
+
+<gamezone>
+     <label>Main Personality</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Mastery</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Banished</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<phase><label>Draw</label></phase>
+<phase><label>Planning</label></phase>
+<phase><label>Combat</label></phase>
+<phase><label>Discard</label></phase>
+<phase><label>Rejuvenation</label></phase>
+
+<generalfunction>
+    <label>Next Phase</label>
+    <kind>NEXTPHASE</kind>
+    <includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+    <label>Next Turn</label>
+    <kind>NEXTTURN</kind>
+    <includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+    <label>Draw</label>
+    <kind>DRAWCARD</kind>
+    <includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+    <label>Life Card/Discard</label>
+    <kind>TRANSFERCARD</kind>
+    <sourcegamezone>Deck</sourcegamezone>
+    <destinationgamezone>Discard</destinationgamezone>
+    <includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+    <label>Rejuvenate</label>
+    <kind>TRANSFERCARD</kind>
+    <sourcegamezone>Discard</sourcegamezone>
+    <destinationgamezone>Deck</destinationgamezone>
+    <destinationposition>bottom</destinationposition>
+    <includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<cardfunction>
+    <label>Power Up</label>
+    <kind>ADDCOUNTER</kind>
+    <color>green</color>
+    <PositionX>.20</PositionX>
+    <PositionY>.60</PositionY>
+    <includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+    <label>Power Down</label>
+    <kind>REMOVECOUNTER</kind>
+    <color>green</color>
+    <includeasbutton>yes</includeasbutton>
+</cardfunction>
 
 </plugin>
