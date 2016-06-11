@@ -1,17 +1,621 @@
 <packdefinitions version="1.0">
 
 <pack>
-     <packtitle>30 Fixed Cards</packtitle>
-     <packimage>samplebooster</packimage>
-     <packformat>Panini</packformat>
-     <packkind>YourLabel</packkind>
-     <packdoubles>yes</packdoubles>
-     <packcommoncrit><field>Set</field><eval>IS</eval><data>Premiere</packcommoncrit>
-     <chance>
-          <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-          <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-          <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-     </chance>
+  <packtitle>30 Fixed Cards</packtitle>
+  <packimage>samplebooster</packimage>
+  <packformat>Panini</packformat>
+  <packkind>YourLabel</packkind>
+  <packdoubles>yes</packdoubles>
+  <packcommoncrit>
+    <field>Set</field>
+    <eval>IS</eval>
+    <data>Premiere</data>
+  </packcommoncrit>
+  <chance>
+    <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+    <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+  </chance>
+</pack>
+
+<pack>
+  <packtitle>Premiere Starter</packtitle>
+  <packimage>samplebooster</packimage>
+  <packformat>Panini</packformat>
+  <packkind>Starter</packkind>
+  <packdoubles>yes</packdoubles>
+  <packcommoncrit>
+    <field>Set</field>
+    <eval>IS</eval>
+    <data>Premiere</data>
+  </packcommoncrit>
+  <packcommoncrit>
+    <field>Rarity</field>
+    <eval>IS</eval>
+    <data>Starter</data>
+  </packcommoncrit>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>5</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Vegeta</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>5</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Frieza</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+  </chance>
+</pack>
+
+<pack>
+  <packtitle>Evolution Starter</packtitle>
+  <packimage>samplebooster</packimage>
+  <packformat>Panini</packformat>
+  <packkind>Starter</packkind>
+  <packdoubles>yes</packdoubles>
+  <packcommoncrit>
+    <field>Set</field>
+    <eval>IS</eval>
+    <data>Premiere</data>
+  </packcommoncrit>
+  <packcommoncrit>
+    <field>Rarity</field>
+    <eval>IS</eval>
+    <data>Starter</data>
+  </packcommoncrit>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>5</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 17</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Red</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>6</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Black</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>5</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 1</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 2</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 3</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Name</field><eval>CONTAINS</eval><data>Android 18</data></crit>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+      <crit><field>Keywords</field><eval>IS</eval><data>Stage 4</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Type</field><eval>IS</eval><data>Mastery</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+    <kind>
+      <qty>60</qty>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Mastery</data></crit>
+      <crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>Main Personality</data></crit>
+      <crit><field>Style</field><eval>IS</eval><data>Orange</data></crit>
+    </kind>
+  </chance>
 </pack>
 
 </packdefinitions>
