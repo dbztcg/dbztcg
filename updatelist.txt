@@ -1,5 +1,5 @@
 dbztcg	05-25-16
-plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	317019
+plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	343909
 plugins/dbztcg/plugininfo.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/plugininfo.txt	213856
 plugins/dbztcg/formats.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/formats.txt	50311
 plugins/dbztcg/bot.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/bot.jpg	59509
@@ -7,8 +7,10 @@ plugins/dbztcg/sets/Premiere.txt	https://raw.githubusercontent.com/dbztcg/dbztcg
 plugins/dbztcg/sets/HeroesAndVillains.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/HeroesAndVillains.txt	997511
 plugins/dbztcg/sets/MovieCollection.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/MovieCollection.txt	863860
 plugins/dbztcg/sets/Evolution.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Evolution.txt	1747922
+plugins/dbztcg/sets/general.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/general.txt	10666
 plugins/dbztcg/sets/setimages/general/cardback.jpg	https://paniniamericadbz.files.wordpress.com/2014/09/dragonballz_back.jpg?w=375	-33023
 plugins/dbztcg/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/setimages/general/spawned.jpg	43530
+plugins/dbztcg/sets/setimages/general/EvolutionAttackTable.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/setimages/general/EvolutionAttackTable.jpg	-82554
 plugins/dbztcg/images/Phase1.jpg	http://www.lackeyccg.com/zombie/images/Phase1.jpg	0
 plugins/dbztcg/images/Phase2.jpg	http://www.lackeyccg.com/zombie/images/Phase2.jpg	0
 plugins/dbztcg/images/Phase3.jpg	http://www.lackeyccg.com/zombie/images/Phase3.jpg	0
