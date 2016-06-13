@@ -1,0 +1,2 @@
+Name	Set	ImageFile	Type	Rarity	Style	Keywords
+Evolution Attack Table	general	EvolutionAttackTable	Token Attack Table			
