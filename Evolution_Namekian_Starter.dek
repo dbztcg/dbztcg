@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<game>dbztcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="eS081">Namek Dragon Ball 6</name><set>Evolution</set></card>
+		<card><name id="eS032">Confrontation</name><set>Evolution</set></card>
+		<card><name id="eS087">Namekian Energy Guard</name><set>Evolution</set></card>
+		<card><name id="eS087">Namekian Energy Guard</name><set>Evolution</set></card>
+		<card><name id="eS087">Namekian Energy Guard</name><set>Evolution</set></card>
+		<card><name id="eS088">Namekian Energy Toss</name><set>Evolution</set></card>
+		<card><name id="eS088">Namekian Energy Toss</name><set>Evolution</set></card>
+		<card><name id="eS088">Namekian Energy Toss</name><set>Evolution</set></card>
+		<card><name id="eS089">Namekian Focused Beams</name><set>Evolution</set></card>
+		<card><name id="eS089">Namekian Focused Beams</name><set>Evolution</set></card>
+		<card><name id="eS089">Namekian Focused Beams</name><set>Evolution</set></card>
+		<card><name id="eS092">Namekian Maximum Will</name><set>Evolution</set></card>
+		<card><name id="eS092">Namekian Maximum Will</name><set>Evolution</set></card>
+		<card><name id="eS092">Namekian Maximum Will</name><set>Evolution</set></card>
+		<card><name id="eS094">Namekian Onslaught</name><set>Evolution</set></card>
+		<card><name id="eS094">Namekian Onslaught</name><set>Evolution</set></card>
+		<card><name id="eS094">Namekian Onslaught</name><set>Evolution</set></card>
+		<card><name id="eS100">Namekian Sudden Blast</name><set>Evolution</set></card>
+		<card><name id="eS100">Namekian Sudden Blast</name><set>Evolution</set></card>
+		<card><name id="eS100">Namekian Sudden Blast</name><set>Evolution</set></card>
+		<card><name id="eS096">Namekian Regeneration</name><set>Evolution</set></card>
+		<card><name id="eS096">Namekian Regeneration</name><set>Evolution</set></card>
+		<card><name id="eS096">Namekian Regeneration</name><set>Evolution</set></card>
+		<card><name id="eS084">Namekian Chin Grab</name><set>Evolution</set></card>
+		<card><name id="eS084">Namekian Chin Grab</name><set>Evolution</set></card>
+		<card><name id="eS085">Namekian Chop</name><set>Evolution</set></card>
+		<card><name id="eS085">Namekian Chop</name><set>Evolution</set></card>
+		<card><name id="eS085">Namekian Chop</name><set>Evolution</set></card>
+		<card><name id="eS086">Namekian Crushing Slam</name><set>Evolution</set></card>
+		<card><name id="eS086">Namekian Crushing Slam</name><set>Evolution</set></card>
+		<card><name id="eS086">Namekian Crushing Slam</name><set>Evolution</set></card>
+		<card><name id="eS090">Namekian Forceful Block</name><set>Evolution</set></card>
+		<card><name id="eS090">Namekian Forceful Block</name><set>Evolution</set></card>
+		<card><name id="eS090">Namekian Forceful Block</name><set>Evolution</set></card>
+		<card><name id="eS091">Namekian Gut Punch</name><set>Evolution</set></card>
+		<card><name id="eS091">Namekian Gut Punch</name><set>Evolution</set></card>
+		<card><name id="eS091">Namekian Gut Punch</name><set>Evolution</set></card>
+		<card><name id="eS093">Namekian Narrow Escape</name><set>Evolution</set></card>
+		<card><name id="eS093">Namekian Narrow Escape</name><set>Evolution</set></card>
+		<card><name id="eS093">Namekian Narrow Escape</name><set>Evolution</set></card>
+		<card><name id="eS095">Namekian Pound</name><set>Evolution</set></card>
+		<card><name id="eS095">Namekian Pound</name><set>Evolution</set></card>
+		<card><name id="eS095">Namekian Pound</name><set>Evolution</set></card>
+		<card><name id="eS097">Namekian Reinforced Block</name><set>Evolution</set></card>
+		<card><name id="eS097">Namekian Reinforced Block</name><set>Evolution</set></card>
+		<card><name id="eS097">Namekian Reinforced Block</name><set>Evolution</set></card>
+		<card><name id="eS098">Namekian Right Throw</name><set>Evolution</set></card>
+		<card><name id="eS098">Namekian Right Throw</name><set>Evolution</set></card>
+		<card><name id="eS098">Namekian Right Throw</name><set>Evolution</set></card>
+		<card><name id="eS099">Namekian Side Kick</name><set>Evolution</set></card>
+		<card><name id="eS099">Namekian Side Kick</name><set>Evolution</set></card>
+		<card><name id="eS099">Namekian Side Kick</name><set>Evolution</set></card>
+		<card><name id="eS101">Namekian Zone Pressure</name><set>Evolution</set></card>
+		<card><name id="eS101">Namekian Zone Pressure</name><set>Evolution</set></card>
+		<card><name id="eS101">Namekian Zone Pressure</name><set>Evolution</set></card>
+		<card><name id="eS082">Namekian Concentration</name><set>Evolution</set></card>
+		<card><name id="eS082">Namekian Concentration</name><set>Evolution</set></card>
+		<card><name id="eS083">Namekian Fusion</name><set>Evolution</set></card>
+		<card><name id="eS083">Namekian Fusion</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Main Personality">
+		<card><name id="eS011">Piccolo -- Composed</name><set>Evolution</set></card>
+		<card><name id="eS012">Piccolo -- Anticipating</name><set>Evolution</set></card>
+		<card><name id="eS013">Piccolo -- Ferocious</name><set>Evolution</set></card>
+		<card><name id="eS014">Piccolo -- Revitalized</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Mastery">
+		<card><name id="eS015">Namekian Restored Mastery</name><set>Evolution</set></card>
+	</superzone>
+</deck>

@@ -1,5 +1,5 @@
 dbztcg	05-25-16
-plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	236125
+plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	317019
 plugins/dbztcg/plugininfo.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/plugininfo.txt	213856
 plugins/dbztcg/formats.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/formats.txt	50311
 plugins/dbztcg/bot.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/bot.jpg	59509
@@ -17,6 +17,12 @@ plugins/dbztcg/images/Phase5.jpg	http://www.lackeyccg.com/zombie/images/Phase5.j
 plugins/dbztcg/images/Phase6.jpg	http://www.lackeyccg.com/zombie/images/Phase6.jpg	0
 plugins/dbztcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/dbztcg/dbztcg/master/packs/packdefinitions1.xml	2053748
 plugins/dbztcg/packs/samplebooster.jpg	http://www.lackeyccg.com/zombie/packs/samplebooster.jpg	64009
+plugins/dbztcg/decks/Evolution_Black_Starter.dek	https://raw.githubusercontent.com/dbztcg/dbztcg/master/Evolution_Black_Starter.dek	439981
+plugins/dbztcg/decks/Evolution_Blue_Starter.dek	https://raw.githubusercontent.com/dbztcg/dbztcg/master/Evolution_Blue_Starter.dek	428784
+plugins/dbztcg/decks/Evolution_Orange_Starter.dek	https://raw.githubusercontent.com/dbztcg/dbztcg/master/Evolution_Orange_Starter.dek	446869
+plugins/dbztcg/decks/Evolution_Red_Starter.dek	https://raw.githubusercontent.com/dbztcg/dbztcg/master/Evolution_Red_Starter.dek	427869
+plugins/dbztcg/decks/Evolution_Namekian_Starter.dek	https://raw.githubusercontent.com/dbztcg/dbztcg/master/Evolution_Namekian_Starter.dek	450115
+plugins/dbztcg/decks/Evolution_Saiyan_Starter.dek	https://raw.githubusercontent.com/dbztcg/dbztcg/master/Evolution_Saiyan_Starter.dek	440670
 plugins/dbztcg/premiereURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/premiereURLs.txt	3152018
 plugins/dbztcg/heroesAndVillainsURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/heroesAndVillainsURLs.txt	1544705
 plugins/dbztcg/movieCollectionURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/movieCollectionURLs.txt	1531203

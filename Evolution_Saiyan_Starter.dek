@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>dbztcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="eS032">Confrontation</name><set>Evolution</set></card>
+		<card><name id="eS160">Saiyan Energy Deflection</name><set>Evolution</set></card>
+		<card><name id="eS160">Saiyan Energy Deflection</name><set>Evolution</set></card>
+		<card><name id="eS160">Saiyan Energy Deflection</name><set>Evolution</set></card>
+		<card><name id="eS168">Saiyan Multi-blast</name><set>Evolution</set></card>
+		<card><name id="eS168">Saiyan Multi-blast</name><set>Evolution</set></card>
+		<card><name id="eS169">Saiyan Pinpoint Blast</name><set>Evolution</set></card>
+		<card><name id="eS169">Saiyan Pinpoint Blast</name><set>Evolution</set></card>
+		<card><name id="eS175">Saiyan Swat</name><set>Evolution</set></card>
+		<card><name id="eS175">Saiyan Swat</name><set>Evolution</set></card>
+		<card><name id="eS175">Saiyan Swat</name><set>Evolution</set></card>
+		<card><name id="eS161">Saiyan Enjoyment</name><set>Evolution</set></card>
+		<card><name id="eS161">Saiyan Enjoyment</name><set>Evolution</set></card>
+		<card><name id="eS161">Saiyan Enjoyment</name><set>Evolution</set></card>
+		<card><name id="eS170">Saiyan Prelude</name><set>Evolution</set></card>
+		<card><name id="eS170">Saiyan Prelude</name><set>Evolution</set></card>
+		<card><name id="eS170">Saiyan Prelude</name><set>Evolution</set></card>
+		<card><name id="eS171">Saiyan Preparation</name><set>Evolution</set></card>
+		<card><name id="eS171">Saiyan Preparation</name><set>Evolution</set></card>
+		<card><name id="eS171">Saiyan Preparation</name><set>Evolution</set></card>
+		<card><name id="eS173">Saiyan Scouting</name><set>Evolution</set></card>
+		<card><name id="eS173">Saiyan Scouting</name><set>Evolution</set></card>
+		<card><name id="eS173">Saiyan Scouting</name><set>Evolution</set></card>
+		<card><name id="eS158">Saiyan Arm Catch</name><set>Evolution</set></card>
+		<card><name id="eS158">Saiyan Arm Catch</name><set>Evolution</set></card>
+		<card><name id="eS158">Saiyan Arm Catch</name><set>Evolution</set></card>
+		<card><name id="eS156">Saiyan Blocking Technique</name><set>Evolution</set></card>
+		<card><name id="eS156">Saiyan Blocking Technique</name><set>Evolution</set></card>
+		<card><name id="eS156">Saiyan Blocking Technique</name><set>Evolution</set></card>
+		<card><name id="eS159">Saiyan Direct Strike</name><set>Evolution</set></card>
+		<card><name id="eS159">Saiyan Direct Strike</name><set>Evolution</set></card>
+		<card><name id="eS159">Saiyan Direct Strike</name><set>Evolution</set></card>
+		<card><name id="eS162">Saiyan Evasion</name><set>Evolution</set></card>
+		<card><name id="eS162">Saiyan Evasion</name><set>Evolution</set></card>
+		<card><name id="eS162">Saiyan Evasion</name><set>Evolution</set></card>
+		<card><name id="eS163">Saiyan Foot Stomp</name><set>Evolution</set></card>
+		<card><name id="eS163">Saiyan Foot Stomp</name><set>Evolution</set></card>
+		<card><name id="eS163">Saiyan Foot Stomp</name><set>Evolution</set></card>
+		<card><name id="eS164">Saiyan Gut Kick</name><set>Evolution</set></card>
+		<card><name id="eS164">Saiyan Gut Kick</name><set>Evolution</set></card>
+		<card><name id="eS157">Saiyan Hand Swipe</name><set>Evolution</set></card>
+		<card><name id="eS157">Saiyan Hand Swipe</name><set>Evolution</set></card>
+		<card><name id="eS157">Saiyan Hand Swipe</name><set>Evolution</set></card>
+		<card><name id="eS165">Saiyan Headbutt</name><set>Evolution</set></card>
+		<card><name id="eS165">Saiyan Headbutt</name><set>Evolution</set></card>
+		<card><name id="eS165">Saiyan Headbutt</name><set>Evolution</set></card>
+		<card><name id="eS166">Saiyan Left Kick</name><set>Evolution</set></card>
+		<card><name id="eS166">Saiyan Left Kick</name><set>Evolution</set></card>
+		<card><name id="eS166">Saiyan Left Kick</name><set>Evolution</set></card>
+		<card><name id="eS167">Saiyan Light Jab</name><set>Evolution</set></card>
+		<card><name id="eS167">Saiyan Light Jab</name><set>Evolution</set></card>
+		<card><name id="eS167">Saiyan Light Jab</name><set>Evolution</set></card>
+		<card><name id="eS172">Saiyan Sabotage</name><set>Evolution</set></card>
+		<card><name id="eS172">Saiyan Sabotage</name><set>Evolution</set></card>
+		<card><name id="eS172">Saiyan Sabotage</name><set>Evolution</set></card>
+		<card><name id="eS174">Saiyan Spin Kick</name><set>Evolution</set></card>
+		<card><name id="eS174">Saiyan Spin Kick</name><set>Evolution</set></card>
+		<card><name id="eS174">Saiyan Spin Kick</name><set>Evolution</set></card>
+		<card><name id="eS155">Saiyan Offensive Rush</name><set>Evolution</set></card>
+		<card><name id="eS155">Saiyan Offensive Rush</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Main Personality">
+		<card><name id="eS001">Trunks -- Returned</name><set>Evolution</set></card>
+		<card><name id="eS002">Trunks -- Swordmaster</name><set>Evolution</set></card>
+		<card><name id="eS003">Trunks -- Defiant</name><set>Evolution</set></card>
+		<card><name id="eS004">Trunks -- Overpowering</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Mastery">
+		<card><name id="eS005">Saiyan Rampaging Mastery</name><set>Evolution</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>dbztcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="eS032">Confrontation</name><set>Evolution</set></card>
+		<card><name id="eS104">Orange Aura Drill</name><set>Evolution</set></card>
+		<card><name id="eS104">Orange Aura Drill</name><set>Evolution</set></card>
+		<card><name id="eS105">Orange Calming Drill</name><set>Evolution</set></card>
+		<card><name id="eS105">Orange Calming Drill</name><set>Evolution</set></card>
+		<card><name id="eS106">Orange Empowered Drill</name><set>Evolution</set></card>
+		<card><name id="eS106">Orange Empowered Drill</name><set>Evolution</set></card>
+		<card><name id="eS107">Orange Joint Restraint Drill</name><set>Evolution</set></card>
+		<card><name id="eS107">Orange Joint Restraint Drill</name><set>Evolution</set></card>
+		<card><name id="eS110">Orange Distracting Beam</name><set>Evolution</set></card>
+		<card><name id="eS110">Orange Distracting Beam</name><set>Evolution</set></card>
+		<card><name id="eS111">Orange Energy Absorption</name><set>Evolution</set></card>
+		<card><name id="eS111">Orange Energy Absorption</name><set>Evolution</set></card>
+		<card><name id="eS111">Orange Energy Absorption</name><set>Evolution</set></card>
+		<card><name id="eS112">Orange Energy Evasion</name><set>Evolution</set></card>
+		<card><name id="eS112">Orange Energy Evasion</name><set>Evolution</set></card>
+		<card><name id="eS112">Orange Energy Evasion</name><set>Evolution</set></card>
+		<card><name id="eS113">Orange Eruption</name><set>Evolution</set></card>
+		<card><name id="eS113">Orange Eruption</name><set>Evolution</set></card>
+		<card><name id="eS118">Orange Offensive Strike</name><set>Evolution</set></card>
+		<card><name id="eS118">Orange Offensive Strike</name><set>Evolution</set></card>
+		<card><name id="eS119">Orange Palm Blasts</name><set>Evolution</set></card>
+		<card><name id="eS119">Orange Palm Blasts</name><set>Evolution</set></card>
+		<card><name id="eS120">Orange Power Point</name><set>Evolution</set></card>
+		<card><name id="eS120">Orange Power Point</name><set>Evolution</set></card>
+		<card><name id="eS121">Orange Precise Shot</name><set>Evolution</set></card>
+		<card><name id="eS121">Orange Precise Shot</name><set>Evolution</set></card>
+		<card><name id="eS123">Orange Rage</name><set>Evolution</set></card>
+		<card><name id="eS123">Orange Rage</name><set>Evolution</set></card>
+		<card><name id="eS125">Orange Revenge</name><set>Evolution</set></card>
+		<card><name id="eS125">Orange Revenge</name><set>Evolution</set></card>
+		<card><name id="eS127">Orange Stare Down</name><set>Evolution</set></card>
+		<card><name id="eS127">Orange Stare Down</name><set>Evolution</set></card>
+		<card><name id="eS114">Orange Excavation</name><set>Evolution</set></card>
+		<card><name id="eS114">Orange Excavation</name><set>Evolution</set></card>
+		<card><name id="eS116">Orange Inspection</name><set>Evolution</set></card>
+		<card><name id="eS116">Orange Inspection</name><set>Evolution</set></card>
+		<card><name id="eS108">Orange Confidence</name><set>Evolution</set></card>
+		<card><name id="eS108">Orange Confidence</name><set>Evolution</set></card>
+		<card><name id="eS109">Orange Cover Up</name><set>Evolution</set></card>
+		<card><name id="eS109">Orange Cover Up</name><set>Evolution</set></card>
+		<card><name id="eS109">Orange Cover Up</name><set>Evolution</set></card>
+		<card><name id="eS115">Orange Extension</name><set>Evolution</set></card>
+		<card><name id="eS115">Orange Extension</name><set>Evolution</set></card>
+		<card><name id="eS117">Orange Launcher</name><set>Evolution</set></card>
+		<card><name id="eS117">Orange Launcher</name><set>Evolution</set></card>
+		<card><name id="eS122">Orange Quick Dodge</name><set>Evolution</set></card>
+		<card><name id="eS122">Orange Quick Dodge</name><set>Evolution</set></card>
+		<card><name id="eS122">Orange Quick Dodge</name><set>Evolution</set></card>
+		<card><name id="eS124">Orange Refocus</name><set>Evolution</set></card>
+		<card><name id="eS124">Orange Refocus</name><set>Evolution</set></card>
+		<card><name id="eS124">Orange Refocus</name><set>Evolution</set></card>
+		<card><name id="eS126">Orange Saving Kick</name><set>Evolution</set></card>
+		<card><name id="eS126">Orange Saving Kick</name><set>Evolution</set></card>
+		<card><name id="eS128">Orange Truck Lift</name><set>Evolution</set></card>
+		<card><name id="eS128">Orange Truck Lift</name><set>Evolution</set></card>
+		<card><name id="eS102">Orange Celebration</name><set>Evolution</set></card>
+		<card><name id="eS102">Orange Celebration</name><set>Evolution</set></card>
+		<card><name id="eS103">Orange Energy Gathering</name><set>Evolution</set></card>
+		<card><name id="eS103">Orange Energy Gathering</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Main Personality">
+		<card><name id="eS016">Vegeta -- Calculating</name><set>Evolution</set></card>
+		<card><name id="eS017">Vegeta -- On The Move</name><set>Evolution</set></card>
+		<card><name id="eS018">Vegeta -- Super Saiyan</name><set>Evolution</set></card>
+		<card><name id="eUR144">Vegeta -- Elite</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Mastery">
+		<card><name id="eS020">Orange Adept Mastery</name><set>Evolution</set></card>
+	</superzone>
+</deck>

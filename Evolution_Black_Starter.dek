@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>dbztcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="eS031">Stare Down</name><set>Evolution</set></card>
+		<card><name id="eS033">Black Power Up</name><set>Evolution</set></card>
+		<card><name id="eS034">Black Radiating Drill</name><set>Evolution</set></card>
+		<card><name id="eS034">Black Radiating Drill</name><set>Evolution</set></card>
+		<card><name id="eS035">Black Smoothness Drill</name><set>Evolution</set></card>
+		<card><name id="eS035">Black Smoothness Drill</name><set>Evolution</set></card>
+		<card><name id="eS036">Black Fist Lock</name><set>Evolution</set></card>
+		<card><name id="eS036">Black Fist Lock</name><set>Evolution</set></card>
+		<card><name id="eS037">Black Overpowering Attack</name><set>Evolution</set></card>
+		<card><name id="eS037">Black Overpowering Attack</name><set>Evolution</set></card>
+		<card><name id="eS038">Black Upward Dodge</name><set>Evolution</set></card>
+		<card><name id="eS038">Black Upward Dodge</name><set>Evolution</set></card>
+		<card><name id="eS038">Black Upward Dodge</name><set>Evolution</set></card>
+		<card><name id="eS039">Black Blinding Burst</name><set>Evolution</set></card>
+		<card><name id="eS039">Black Blinding Burst</name><set>Evolution</set></card>
+		<card><name id="eS040">Black Defensive Burst</name><set>Evolution</set></card>
+		<card><name id="eS040">Black Defensive Burst</name><set>Evolution</set></card>
+		<card><name id="eS041">Black Dismissal</name><set>Evolution</set></card>
+		<card><name id="eS041">Black Dismissal</name><set>Evolution</set></card>
+		<card><name id="eS042">Black Energy Toss</name><set>Evolution</set></card>
+		<card><name id="eS042">Black Energy Toss</name><set>Evolution</set></card>
+		<card><name id="eS043">Black Energy Web</name><set>Evolution</set></card>
+		<card><name id="eS043">Black Energy Web</name><set>Evolution</set></card>
+		<card><name id="eS044">Black Enraged Assault</name><set>Evolution</set></card>
+		<card><name id="eS044">Black Enraged Assault</name><set>Evolution</set></card>
+		<card><name id="eS045">Black Finger Block</name><set>Evolution</set></card>
+		<card><name id="eS045">Black Finger Block</name><set>Evolution</set></card>
+		<card><name id="eS046">Black Flying Kick</name><set>Evolution</set></card>
+		<card><name id="eS046">Black Flying Kick</name><set>Evolution</set></card>
+		<card><name id="eS047">Black Foreshadowing</name><set>Evolution</set></card>
+		<card><name id="eS047">Black Foreshadowing</name><set>Evolution</set></card>
+		<card><name id="eS048">Black Hair Trap</name><set>Evolution</set></card>
+		<card><name id="eS048">Black Hair Trap</name><set>Evolution</set></card>
+		<card><name id="eS049">Black Hug Maneuver</name><set>Evolution</set></card>
+		<card><name id="eS049">Black Hug Maneuver</name><set>Evolution</set></card>
+		<card><name id="eS050">Black Interceptor Barrage</name><set>Evolution</set></card>
+		<card><name id="eS050">Black Interceptor Barrage</name><set>Evolution</set></card>
+		<card><name id="eS051">Black Knee Catch</name><set>Evolution</set></card>
+		<card><name id="eS051">Black Knee Catch</name><set>Evolution</set></card>
+		<card><name id="eS051">Black Knee Catch</name><set>Evolution</set></card>
+		<card><name id="eS052">Black Lightning Storm</name><set>Evolution</set></card>
+		<card><name id="eS052">Black Lightning Storm</name><set>Evolution</set></card>
+		<card><name id="eS053">Black Lunge</name><set>Evolution</set></card>
+		<card><name id="eS053">Black Lunge</name><set>Evolution</set></card>
+		<card><name id="eS054">Black Overhead Burst</name><set>Evolution</set></card>
+		<card><name id="eS054">Black Overhead Burst</name><set>Evolution</set></card>
+		<card><name id="eS055">Black Resistance</name><set>Evolution</set></card>
+		<card><name id="eS055">Black Resistance</name><set>Evolution</set></card>
+		<card><name id="eS055">Black Resistance</name><set>Evolution</set></card>
+		<card><name id="eS056">Black Speedy Dodge</name><set>Evolution</set></card>
+		<card><name id="eS056">Black Speedy Dodge</name><set>Evolution</set></card>
+		<card><name id="eS056">Black Speedy Dodge</name><set>Evolution</set></card>
+		<card><name id="eS057">Black Stop</name><set>Evolution</set></card>
+		<card><name id="eS057">Black Stop</name><set>Evolution</set></card>
+		<card><name id="eS057">Black Stop</name><set>Evolution</set></card>
+		<card><name id="eS058">Black Strike</name><set>Evolution</set></card>
+		<card><name id="eS058">Black Strike</name><set>Evolution</set></card>
+		<card><name id="eS059">Black Swipe</name><set>Evolution</set></card>
+		<card><name id="eS059">Black Swipe</name><set>Evolution</set></card>
+		<card><name id="eS059">Black Swipe</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Main Personality">
+		<card><name id="eS026">Android 18 -- Directing</name><set>Evolution</set></card>
+		<card><name id="eS027">Android 18 -- Threatening</name><set>Evolution</set></card>
+		<card><name id="eS028">Android 18 -- Effective</name><set>Evolution</set></card>
+		<card><name id="eS029">Android 18 -- Determined</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Mastery">
+		<card><name id="eS030">Black Perceptive Mastery</name><set>Evolution</set></card>
+	</superzone>
+</deck>

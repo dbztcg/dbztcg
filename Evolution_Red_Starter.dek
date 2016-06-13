@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>dbztcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="eS131">Red Hunting Drill</name><set>Evolution</set></card>
+		<card><name id="eS131">Red Hunting Drill</name><set>Evolution</set></card>
+		<card><name id="eS132">Red Tactical Drill</name><set>Evolution</set></card>
+		<card><name id="eS132">Red Tactical Drill</name><set>Evolution</set></card>
+		<card><name id="eS132">Red Tactical Drill</name><set>Evolution</set></card>
+		<card><name id="eS138">Red Energy Blast</name><set>Evolution</set></card>
+		<card><name id="eS138">Red Energy Blast</name><set>Evolution</set></card>
+		<card><name id="eS139">Red Energy Outburst</name><set>Evolution</set></card>
+		<card><name id="eS139">Red Energy Outburst</name><set>Evolution</set></card>
+		<card><name id="eS140">Red Energy Shield</name><set>Evolution</set></card>
+		<card><name id="eS140">Red Energy Shield</name><set>Evolution</set></card>
+		<card><name id="eS140">Red Energy Shield</name><set>Evolution</set></card>
+		<card><name id="eS142">Red Freezing Beam</name><set>Evolution</set></card>
+		<card><name id="eS142">Red Freezing Beam</name><set>Evolution</set></card>
+		<card><name id="eS143">Red Frenzied Blasts</name><set>Evolution</set></card>
+		<card><name id="eS143">Red Frenzied Blasts</name><set>Evolution</set></card>
+		<card><name id="eS144">Red Heating Beams</name><set>Evolution</set></card>
+		<card><name id="eS144">Red Heating Beams</name><set>Evolution</set></card>
+		<card><name id="eS145">Red Hop</name><set>Evolution</set></card>
+		<card><name id="eS145">Red Hop</name><set>Evolution</set></card>
+		<card><name id="eS145">Red Hop</name><set>Evolution</set></card>
+		<card><name id="eS154">Red Surrounded Beams</name><set>Evolution</set></card>
+		<card><name id="eS154">Red Surrounded Beams</name><set>Evolution</set></card>
+		<card><name id="eS134">Red Blazing Aura</name><set>Evolution</set></card>
+		<card><name id="eS134">Red Blazing Aura</name><set>Evolution</set></card>
+		<card><name id="eS134">Red Blazing Aura</name><set>Evolution</set></card>
+		<card><name id="eS133">Red Back Kick</name><set>Evolution</set></card>
+		<card><name id="eS133">Red Back Kick</name><set>Evolution</set></card>
+		<card><name id="eS135">Red Blocking Hand</name><set>Evolution</set></card>
+		<card><name id="eS135">Red Blocking Hand</name><set>Evolution</set></card>
+		<card><name id="eS135">Red Blocking Hand</name><set>Evolution</set></card>
+		<card><name id="eS136">Red Burning Stance</name><set>Evolution</set></card>
+		<card><name id="eS136">Red Burning Stance</name><set>Evolution</set></card>
+		<card><name id="eS137">Red Double Strike</name><set>Evolution</set></card>
+		<card><name id="eS137">Red Double Strike</name><set>Evolution</set></card>
+		<card><name id="eS141">Red Face Break</name><set>Evolution</set></card>
+		<card><name id="eS141">Red Face Break</name><set>Evolution</set></card>
+		<card><name id="eS146">Red Jump Kick</name><set>Evolution</set></card>
+		<card><name id="eS146">Red Jump Kick</name><set>Evolution</set></card>
+		<card><name id="eS147">Red Lifting Kick</name><set>Evolution</set></card>
+		<card><name id="eS147">Red Lifting Kick</name><set>Evolution</set></card>
+		<card><name id="eS148">Red Lightning Slash</name><set>Evolution</set></card>
+		<card><name id="eS148">Red Lightning Slash</name><set>Evolution</set></card>
+		<card><name id="eS149">Red Power Lift</name><set>Evolution</set></card>
+		<card><name id="eS149">Red Power Lift</name><set>Evolution</set></card>
+		<card><name id="eS150">Red Power Punch</name><set>Evolution</set></card>
+		<card><name id="eS150">Red Power Punch</name><set>Evolution</set></card>
+		<card><name id="eS151">Red Right Cross</name><set>Evolution</set></card>
+		<card><name id="eS151">Red Right Cross</name><set>Evolution</set></card>
+		<card><name id="eS152">Red Shattering Leap</name><set>Evolution</set></card>
+		<card><name id="eS152">Red Shattering Leap</name><set>Evolution</set></card>
+		<card><name id="eS153">Red Slide</name><set>Evolution</set></card>
+		<card><name id="eS153">Red Slide</name><set>Evolution</set></card>
+		<card><name id="eS129">Red Blaze</name><set>Evolution</set></card>
+		<card><name id="eS129">Red Blaze</name><set>Evolution</set></card>
+		<card><name id="eS129">Red Blaze</name><set>Evolution</set></card>
+		<card><name id="eS130">Red Burning Rage</name><set>Evolution</set></card>
+		<card><name id="eS130">Red Burning Rage</name><set>Evolution</set></card>
+		<card><name id="eS130">Red Burning Rage</name><set>Evolution</set></card>
+		<card><name id="eS031">Stare Down</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Main Personality">
+		<card><name id="eS021">Android 17 -- Judgmental</name><set>Evolution</set></card>
+		<card><name id="eS022">Android 17 -- Imposing</name><set>Evolution</set></card>
+		<card><name id="eS023">Android 17 -- Battle Ready</name><set>Evolution</set></card>
+		<card><name id="eS024">Android 17 -- In Action</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Mastery">
+		<card><name id="eS025">Red Ruthless Mastery</name><set>Evolution</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>dbztcg</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="eS060">Tenshinhan -- Returned</name><set>Evolution</set></card>
+		<card><name id="eS032">Confrontation</name><set>Evolution</set></card>
+		<card><name id="eS061">Blue Blockade</name><set>Evolution</set></card>
+		<card><name id="eS061">Blue Blockade</name><set>Evolution</set></card>
+		<card><name id="eS062">Blue Ki Build Up</name><set>Evolution</set></card>
+		<card><name id="eS062">Blue Ki Build Up</name><set>Evolution</set></card>
+		<card><name id="eS062">Blue Ki Build Up</name><set>Evolution</set></card>
+		<card><name id="eS063">Blue Stretch Kick</name><set>Evolution</set></card>
+		<card><name id="eS063">Blue Stretch Kick</name><set>Evolution</set></card>
+		<card><name id="eS063">Blue Stretch Kick</name><set>Evolution</set></card>
+		<card><name id="eS064">Blue Biting Drill</name><set>Evolution</set></card>
+		<card><name id="eS064">Blue Biting Drill</name><set>Evolution</set></card>
+		<card><name id="eS064">Blue Biting Drill</name><set>Evolution</set></card>
+		<card><name id="eS065">Blue Mental Drill</name><set>Evolution</set></card>
+		<card><name id="eS065">Blue Mental Drill</name><set>Evolution</set></card>
+		<card><name id="eS065">Blue Mental Drill</name><set>Evolution</set></card>
+		<card><name id="eS066">Blue Face Crunch</name><set>Evolution</set></card>
+		<card><name id="eS066">Blue Face Crunch</name><set>Evolution</set></card>
+		<card><name id="eS066">Blue Face Crunch</name><set>Evolution</set></card>
+		<card><name id="eS067">Blue Arm Blast</name><set>Evolution</set></card>
+		<card><name id="eS067">Blue Arm Blast</name><set>Evolution</set></card>
+		<card><name id="eS067">Blue Arm Blast</name><set>Evolution</set></card>
+		<card><name id="eS068">Blue Barrier</name><set>Evolution</set></card>
+		<card><name id="eS068">Blue Barrier</name><set>Evolution</set></card>
+		<card><name id="eS068">Blue Barrier</name><set>Evolution</set></card>
+		<card><name id="eS069">Blue Betrayal</name><set>Evolution</set></card>
+		<card><name id="eS069">Blue Betrayal</name><set>Evolution</set></card>
+		<card><name id="eS069">Blue Betrayal</name><set>Evolution</set></card>
+		<card><name id="eS070">Blue Crouch</name><set>Evolution</set></card>
+		<card><name id="eS070">Blue Crouch</name><set>Evolution</set></card>
+		<card><name id="eS070">Blue Crouch</name><set>Evolution</set></card>
+		<card><name id="eS071">Blue Defensive Effect</name><set>Evolution</set></card>
+		<card><name id="eS071">Blue Defensive Effect</name><set>Evolution</set></card>
+		<card><name id="eS072">Blue Defensive Stance</name><set>Evolution</set></card>
+		<card><name id="eS072">Blue Defensive Stance</name><set>Evolution</set></card>
+		<card><name id="eS072">Blue Defensive Stance</name><set>Evolution</set></card>
+		<card><name id="eS073">Blue Encircled Strike</name><set>Evolution</set></card>
+		<card><name id="eS073">Blue Encircled Strike</name><set>Evolution</set></card>
+		<card><name id="eS073">Blue Encircled Strike</name><set>Evolution</set></card>
+		<card><name id="eS074">Blue Fist Catch</name><set>Evolution</set></card>
+		<card><name id="eS074">Blue Fist Catch</name><set>Evolution</set></card>
+		<card><name id="eS074">Blue Fist Catch</name><set>Evolution</set></card>
+		<card><name id="eS075">Blue Head Knock</name><set>Evolution</set></card>
+		<card><name id="eS075">Blue Head Knock</name><set>Evolution</set></card>
+		<card><name id="eS075">Blue Head Knock</name><set>Evolution</set></card>
+		<card><name id="eS076">Blue Narrow Escape</name><set>Evolution</set></card>
+		<card><name id="eS076">Blue Narrow Escape</name><set>Evolution</set></card>
+		<card><name id="eS076">Blue Narrow Escape</name><set>Evolution</set></card>
+		<card><name id="eS077">Blue Reprimand</name><set>Evolution</set></card>
+		<card><name id="eS077">Blue Reprimand</name><set>Evolution</set></card>
+		<card><name id="eS077">Blue Reprimand</name><set>Evolution</set></card>
+		<card><name id="eS078">Blue Round Throw</name><set>Evolution</set></card>
+		<card><name id="eS078">Blue Round Throw</name><set>Evolution</set></card>
+		<card><name id="eS078">Blue Round Throw</name><set>Evolution</set></card>
+		<card><name id="eS079">Blue Safeguard</name><set>Evolution</set></card>
+		<card><name id="eS079">Blue Safeguard</name><set>Evolution</set></card>
+		<card><name id="eS079">Blue Safeguard</name><set>Evolution</set></card>
+		<card><name id="eS080">Blue Wrist Block</name><set>Evolution</set></card>
+		<card><name id="eS080">Blue Wrist Block</name><set>Evolution</set></card>
+		<card><name id="eS080">Blue Wrist Block</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Main Personality">
+		<card><name id="eS006">Goku -- Relaxed</name><set>Evolution</set></card>
+		<card><name id="eS007">Goku -- Motivated</name><set>Evolution</set></card>
+		<card><name id="eS008">Goku -- Calm</name><set>Evolution</set></card>
+		<card><name id="eS009">Goku -- Dashing</name><set>Evolution</set></card>
+	</superzone>
+	<superzone name="Mastery">
+		<card><name id="eS010">Blue Tag Team Mastery</name><set>Evolution</set></card>
+	</superzone>
+</deck>
