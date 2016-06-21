@@ -1,7 +1,8 @@
-dbztcg	05-25-16
-plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	367735
+dbztcg	06-20-16
+plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	377272
 plugins/dbztcg/plugininfo.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/plugininfo.txt	213856
 plugins/dbztcg/formats.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/formats.txt	50311
+plugins/dbztcg/version.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/version.txt	46033
 plugins/dbztcg/bot.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/bot.jpg	59509
 plugins/dbztcg/sets/Premiere.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Premiere.txt	1774340
 plugins/dbztcg/sets/HeroesAndVillains.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/HeroesAndVillains.txt	997511
