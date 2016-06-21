@@ -1,5 +1,5 @@
 dbztcg	05-25-16
-plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	343909
+plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	367735
 plugins/dbztcg/plugininfo.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/plugininfo.txt	213856
 plugins/dbztcg/formats.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/formats.txt	50311
 plugins/dbztcg/bot.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/bot.jpg	59509
@@ -7,6 +7,7 @@ plugins/dbztcg/sets/Premiere.txt	https://raw.githubusercontent.com/dbztcg/dbztcg
 plugins/dbztcg/sets/HeroesAndVillains.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/HeroesAndVillains.txt	997511
 plugins/dbztcg/sets/MovieCollection.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/MovieCollection.txt	863860
 plugins/dbztcg/sets/Evolution.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Evolution.txt	1747922
+plugins/dbztcg/sets/Perfection.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Perfection.txt	795043
 plugins/dbztcg/sets/general.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/general.txt	10666
 plugins/dbztcg/sets/setimages/general/cardback.jpg	https://paniniamericadbz.files.wordpress.com/2014/09/dragonballz_back.jpg?w=375	-33023
 plugins/dbztcg/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/setimages/general/spawned.jpg	43530
@@ -29,8 +30,10 @@ plugins/dbztcg/premiereURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/
 plugins/dbztcg/heroesAndVillainsURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/heroesAndVillainsURLs.txt	1544705
 plugins/dbztcg/movieCollectionURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/movieCollectionURLs.txt	1531203
 plugins/dbztcg/evolutionURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/evolutionURLs.txt	3211495
+plugins/dbztcg/perfectionURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/perfectionURLs.txt	1520813
 CardURLFiles:
 premiereURLs.txt
 heroesAndVillainsURLs.txt
 movieCollectionURLs.txt
 evolutionURLs.txt
+perfectionURLS.txt
