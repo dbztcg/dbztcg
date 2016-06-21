@@ -1,0 +1,148 @@
+Name	Set	ImageFile	Type	Rarity	Style	Keywords
+Android Headbutt	Perfection	C001	Physical Combat	Common	Freestyle	
+Debilitating Volley	Perfection	C002	Energy Combat	Common	Freestyle	
+Vicious Strike	Perfection	C003	Physical Combat	Common	Freestyle	
+Villainous Energy Beam	Perfection	C004	Energy Combat	Common	Villain	
+Black Analysis	Perfection	C005	Setup	Common	Black	
+Black Obstructing Drill	Perfection	C006	Drill	Common	Black	
+Black Destructive Beam	Perfection	C007	Energy Combat	Common	Black	
+Black Easy Block	Perfection	C008	Physical Combat	Common	Black	
+Black Energy Bubble	Perfection	C009	Energy Combat	Common	Black	
+Black Enraged Outburst	Perfection	C010	Energy Combat	Common	Black	
+Black Haunting	Perfection	C011	Event	Common	Black	
+Black Nightmare	Perfection	C012	Event	Common	Black	
+Black Sidestep	Perfection	C013	Energy Combat	Common	Black	
+Black Unstable Punch	Perfection	C014	Physical Combat	Common	Black	
+Blue Vision	Perfection	C015	Setup	Common	Blue	
+Blue Guarding Drill	Perfection	C016	Drill	Common	Blue	
+Blue Clash	Perfection	C017	Energy Combat	Common	Blue	
+Blue Concentrated Blast	Perfection	C018	Energy Combat	Common	Blue	
+Blue Energy Shield	Perfection	C019	Energy Combat	Common	Blue	
+Blue Head Kick	Perfection	C020	Physical Combat	Common	Blue	
+Blue Outbreak	Perfection	C021	Energy Combat	Common	Blue	
+Blue Overcharge	Perfection	C022	Event	Common	Blue	
+Blue Slide	Perfection	C023	Physical Combat	Common	Blue	
+Blue Sword Rage	Perfection	C024	Physical Combat	Common	Blue	
+Namekian Flight	Perfection	C025	Setup	Common	Namekian	
+Namekian Risk	Perfection	C026	Setup	Common	Namekian	
+Namekian Back Kick	Perfection	C027	Physical Combat	Common	Namekian	
+Namekian Backflip	Perfection	C028	Physical Combat	Common	Namekian	
+Namekian Chest Explosion	Perfection	C029	Energy Combat	Common	Namekian	
+Namekian Counter Blast	Perfection	C030	Energy Combat	Common	Namekian	
+Namekian Heel Kick	Perfection	C031	Physical Combat	Common	Namekian	
+Namekian Resistance	Perfection	C032	Energy Combat	Common	Namekian	
+Namekian Right Elbow	Perfection	C033	Physical Combat	Common	Namekian	
+Orange Charging Drill	Perfection	C034	Drill	Common	Orange	
+Orange Examination Drill	Perfection	C035	Drill	Common	Orange	
+Orange Observing Drill	Perfection	C036	Drill	Common	Orange	
+Orange Thumbs Up Drill	Perfection	C037	Drill	Common	Orange	
+Orange Energy Deflection	Perfection	C038	Energy Combat	Common	Orange	
+Orange Enraged Bash	Perfection	C039	Physical Combat	Common	Orange	
+Orange Fixation	Perfection	C040	Event	Common	Orange	
+Orange Planned Block	Perfection	C041	Physical Combat	Common	Orange	
+Orange Tank Barrage	Perfection	C042	Physical Combat	Common	Orange	
+Red Bribe	Perfection	C043	Setup	Common	Red	
+Red Cover Drill	Perfection	C044	Drill	Common	Red	
+Red Cannon	Perfection	C045	Energy Combat	Common	Red	
+Red Capture	Perfection	C046	Physical Combat	Common	Red	
+Red Chest Pierce	Perfection	C047	Physical Combat	Common	Red	
+Red Inferno	Perfection	C048	Event	Common	Red	
+Red Interference	Perfection	C049	Energy Combat	Common	Red	
+Red Sword Stab	Perfection	C050	Physical Combat	Common	Red	
+Red Tandem Blast	Perfection	C051	Energy Combat	Common	Red	
+Saiyan Demolishing Beam	Perfection	C052	Energy Combat	Common	Saiyan	
+Saiyan Emergence	Perfection	C053	Event	Common	Saiyan	
+Saiyan Energy Aura	Perfection	C054	Energy Combat	Common	Saiyan	
+Saiyan Face Strike	Perfection	C055	Physical Combat	Common	Saiyan	
+Saiyan Flip	Perfection	C056	Physical Combat	Common	Saiyan	
+Saiyan Leaping Strike	Perfection	C057	Physical Combat	Common	Saiyan	
+Saiyan Obstruction	Perfection	C058	Event	Common	Saiyan	
+Saiyan Rapid Fire	Perfection	C059	Energy Combat	Common	Saiyan	
+Saiyan Skull Jab	Perfection	C060	Physical Combat	Common	Saiyan	
+Master Roshi -- Expectant	Perfection	U061	Main Personality	Uncommon	Hero	Level 1
+Master Roshi -- Overwhelmed	Perfection	U062	Main Personality	Uncommon	Hero	Level 2
+Master Roshi -- Catcher	Perfection	U063	Main Personality	Uncommon	Hero	Level 3
+Master Roshi -- Barricade	Perfection	U064	Main Personality	Uncommon	Hero	Level 4
+Yamcha -- Sleeping	Perfection	U065	Main Personality	Uncommon	Hero	Level 1
+Yamcha -- On The Move	Perfection	U066	Main Personality	Uncommon	Hero	Level 2
+Yamcha -- Surprised	Perfection	U067	Main Personality	Uncommon	Hero	Level 3
+Yamcha -- Happy	Perfection	U068	Main Personality	Uncommon	Hero	Level 4
+Android 16 -- Awoken	Perfection	U069	Main Personality	Uncommon	Villain	Level 1
+Android 16 -- Distracted	Perfection	U070	Main Personality	Uncommon	Villain	Level 2
+Android 16 -- Enraged	Perfection	U071	Main Personality	Uncommon	Villain	Level 3
+Android 16 -- Injured	Perfection	U072	Main Personality	Uncommon	Villain	Level 4
+Dr. Brief -- Analyzing	Perfection	U073	Ally	Uncommon	Hero	Level 1
+Mr. Popo -- Guide	Perfection	U074	Ally	Uncommon	Hero	Level 1
+Android 16 -- Unmoving	Perfection	U075	Ally	Uncommon	Villain	Level 1
+Cell -- Larval	Perfection	U076	Ally	Uncommon	Villain	Level 1
+Android Defensive Blast	Perfection	U077	Energy Combat	Uncommon	Freestyle	
+Pesky Barrage	Perfection	U078	Energy Combat	Uncommon	Hero	
+Playful Punch	Perfection	U079	Physical Combat	Uncommon	Freestyle	
+Black Confident Shot	Perfection	U080	Energy Combat	Uncommon	Black	
+Black Grounding Bash	Perfection	U081	Physical Combat	Uncommon	Black	
+Black Sharp Kick	Perfection	U082	Physical Combat	Uncommon	Black	
+Blue Eating Drill	Perfection	U083	Drill	Uncommon	Blue	
+Blue Challenging Strike	Perfection	U084	Physical Combat	Uncommon	Blue	
+Blue Dispersing Beam	Perfection	U085	Energy Combat	Uncommon	Blue	
+Namekian Searching Drill	Perfection	U086	Drill	Uncommon	Namekian	
+Namekian Focused Ball	Perfection	U087	Energy Combat	Uncommon	Namekian	
+Namekian Hand Burst	Perfection	U088	Energy Combat	Uncommon	Namekian	
+Namekian Preparation	Perfection	U089	Event	Uncommon	Namekian	
+Orange Dressing Room	Perfection	U090	Setup	Uncommon	Orange	
+Orange Charge	Perfection	U091	Physical Combat	Uncommon	Orange	
+Orange Clearing Blast	Perfection	U092	Energy Combat	Uncommon	Orange	
+Orange Stab	Perfection	U093	Physical Combat	Uncommon	Orange	
+Red Glare	Perfection	U094	Setup	Uncommon	Red	
+Red Infuriated Attack	Perfection	U095	Physical Combat	Uncommon	Red	
+Red Right Blast	Perfection	U096	Energy Combat	Uncommon	Red	
+Saiyan Transformation Drill	Perfection	U097	Drill	Uncommon	Saiyan	
+Saiyan Back Crash	Perfection	U098	Physical Combat	Uncommon	Saiyan	
+Saiyan Crunch	Perfection	U099	Physical Combat	Uncommon	Saiyan	
+Saiyan Sword Skill	Perfection	U100	Event	Uncommon	Saiyan	
+Master Roshi's Slumber	Perfection	R101	Setup	Rare	Named	
+Master Roshi's Back Strike	Perfection	R102	Physical Combat	Rare	Named	
+Yamcha's Expert Assistance	Perfection	R103	Setup	Rare	Named	
+Yamcha's Rescue	Perfection	R104	Physical Combat	Rare	Named	
+Android 16's Tranquility	Perfection	R105	Setup	Rare	Named	
+Android 16's Rocket Punch	Perfection	R106	Physical Combat	Rare	Named	
+Cell's Draining Attack	Perfection	R107	Physical Combat	Rare	Named	
+Cell's Style	Perfection	R108	Event	Rare	Named	
+Tenshinhan's Tri-Beam	Perfection	R109	Energy Combat	Rare	Named	
+Trunks' Slam	Perfection	R110	Physical Combat	Rare	Named	
+Aggressive Sword Drill	Perfection	R111	Drill	Rare	Freestyle	
+Clash of Wills	Perfection	R112	Event	Rare	Freestyle	
+Dashing Sword Attack	Perfection	R113	Physical Combat	Rare	Freestyle	
+Heroic Jab	Perfection	R114	Physical Combat	Rare	Hero	
+Overwhelming Power	Perfection	R115	Event	Rare	Freestyle	
+Black Discovery	Perfection	R116	Setup	Rare	Black	
+Black Choke	Perfection	R117	Physical Combat	Rare	Black	
+Black Double Team	Perfection	R118	Physical Combat	Rare	Black	
+Black Extreme Blast	Perfection	R119	Energy Combat	Rare	Black	
+Blue Training	Perfection	R120	Setup	Rare	Blue	
+Blue Head Charge	Perfection	R121	Physical Combat	Rare	Blue	
+Blue Restraint	Perfection	R122	Event	Rare	Blue	
+Blue Toss	Perfection	R123	Physical Combat	Rare	Blue	
+Namekian Back Smash	Perfection	R124	Physical Combat	Rare	Namekian	
+Namekian Energized Bash	Perfection	R125	Energy Combat	Rare	Namekian	
+Namekian Face Crush	Perfection	R126	Physical Combat	Rare	Namekian	
+Namekian Resilience	Perfection	R127	Event	Rare	Namekian	
+Orange Hoping Drill	Perfection	R128	Drill	Rare	Orange	
+Orange Ki Ball	Perfection	R129	Energy Combat	Rare	Orange	
+Orange Overflowing Burst	Perfection	R130	Energy Combat	Rare	Orange	
+Orange Right Beam	Perfection	R131	Energy Combat	Rare	Orange	
+Red Channel Surfing Drill	Perfection	R132	Drill	Rare	Red	
+Red Aerial Assault	Perfection	R133	Physical Combat	Rare	Red	
+Red Back Bash	Perfection	R134	Physical Combat	Rare	Red	
+Red Downward Burst	Perfection	R135	Energy Combat	Rare	Red	
+Red Powerful Strike	Perfection	R136	Physical Combat	Rare	Red	
+Saiyan Extreme Training	Perfection	R137	Setup	Rare	Saiyan	
+Saiyan Charged Kick	Perfection	R138	Energy Combat	Rare	Saiyan	
+Saiyan Ki Burst	Perfection	R139	Energy Combat	Rare	Saiyan	
+Saiyan Overhead Flare	Perfection	R140	Energy Combat	Rare	Saiyan	
+Power Mimic	Perfection	UR141	Setup	Ultra Rare	Villain	
+Heroic Dashing Punch	Perfection	UR142	Physical Combat	Ultra Rare	Hero	
+Cell -- Imperfect	Perfection	DR001	Main Personality	Promo	Villain	Level 1
+Cell -- Imperfect	Perfection	DR001A	Main Personality	Promo	Villain	Level 1
+Cell -- Semi-Perfect	Perfection	DR002	Main Personality	Promo	Villain	Level 2
+Cell -- Perfect	Perfection	DR003	Main Personality	Promo	Villain	Level 3
+Cell -- Unstoppable	Perfection	DR004	Main Personality	Promo	Villain	Level 4
