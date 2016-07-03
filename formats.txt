@@ -24,6 +24,7 @@
      <set>MovieCollection</set>
      <set>Evolution</set>
      <set>Perfection</set>
+     <set>Vengeance</set>
 </format>
 
 </formatdefinitions>

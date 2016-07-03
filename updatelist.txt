@@ -1,14 +1,15 @@
 dbztcg	06-20-16
-plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	377272
+plugins/dbztcg/updatelist.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt	400522
 plugins/dbztcg/plugininfo.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/plugininfo.txt	213856
-plugins/dbztcg/formats.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/formats.txt	50311
-plugins/dbztcg/version.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/version.txt	46033
+plugins/dbztcg/formats.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/formats.txt	52334
+plugins/dbztcg/version.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/version.txt	27505
 plugins/dbztcg/bot.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/bot.jpg	59509
 plugins/dbztcg/sets/Premiere.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Premiere.txt	1774340
 plugins/dbztcg/sets/HeroesAndVillains.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/HeroesAndVillains.txt	997511
 plugins/dbztcg/sets/MovieCollection.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/MovieCollection.txt	863860
-plugins/dbztcg/sets/Evolution.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Evolution.txt	1747922
-plugins/dbztcg/sets/Perfection.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Perfection.txt	795043
+plugins/dbztcg/sets/Evolution.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Evolution.txt	1747575
+plugins/dbztcg/sets/Perfection.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Perfection.txt	797563
+plugins/dbztcg/sets/Vengeance.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/Vengeance.txt	762451
 plugins/dbztcg/sets/general.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/general.txt	10666
 plugins/dbztcg/sets/setimages/general/cardback.jpg	https://paniniamericadbz.files.wordpress.com/2014/09/dragonballz_back.jpg?w=375	-33023
 plugins/dbztcg/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/dbztcg/dbztcg/master/sets/setimages/general/spawned.jpg	43530
@@ -32,9 +33,11 @@ plugins/dbztcg/heroesAndVillainsURLs.txt	https://raw.githubusercontent.com/dbztc
 plugins/dbztcg/movieCollectionURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/movieCollectionURLs.txt	1531203
 plugins/dbztcg/evolutionURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/evolutionURLs.txt	3211495
 plugins/dbztcg/perfectionURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/perfectionURLs.txt	1520813
+plugins/dbztcg/vengeanceURLs.txt	https://raw.githubusercontent.com/dbztcg/dbztcg/master/vengeanceURLs.txt	1434848
 CardURLFiles:
 premiereURLs.txt
 heroesAndVillainsURLs.txt
 movieCollectionURLs.txt
 evolutionURLs.txt
 perfectionURLS.txt
+vengeanceURLS.txt

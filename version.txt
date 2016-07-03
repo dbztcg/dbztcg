@@ -1,6 +1,6 @@
 <version>
-	<lastupdateYYMMDD>160620</lastupdateYYMMDD>
+	<lastupdateYYMMDD>160703</lastupdateYYMMDD>
 	<versionurl>https://raw.githubusercontent.com/dbztcg/dbztcg/master/version.txt</versionurl>
 	<updateurl>https://raw.githubusercontent.com/dbztcg/dbztcg/master/updatelist.txt</updateurl>
-	<message>First Playable Version. Evolution is weird. A really annoying (but only necessary once) work around is to open each incorrectly displaying image in MS Paint and hit Ctrl-s (no need to make any changes) then close the image.</message>
+	<message>Vengeance Expansion</message>
 </version>
