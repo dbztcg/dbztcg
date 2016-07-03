@@ -141,8 +141,8 @@ Saiyan Ki Burst	Perfection	R139	Energy Combat	Rare	Saiyan
 Saiyan Overhead Flare	Perfection	R140	Energy Combat	Rare	Saiyan	
 Power Mimic	Perfection	UR141	Setup	Ultra Rare	Villain	
 Heroic Dashing Punch	Perfection	UR142	Physical Combat	Ultra Rare	Hero	
-Cell -- Imperfect	Perfection	DR001	Main Personality	Promo	Villain	Level 1
-Cell -- Imperfect	Perfection	DR001A	Main Personality	Promo	Villain	Level 1
-Cell -- Semi-Perfect	Perfection	DR002	Main Personality	Promo	Villain	Level 2
-Cell -- Perfect	Perfection	DR003	Main Personality	Promo	Villain	Level 3
-Cell -- Unstoppable	Perfection	DR004	Main Personality	Promo	Villain	Level 4
+Cell -- Imperfect	Perfection	DR001	Main Personality	Dragon Rare	Villain	Level 1
+Cell -- Imperfect	Perfection	DR001A	Main Personality	Dragon Rare	Villain	Level 1
+Cell -- Semi-Perfect	Perfection	DR002	Main Personality	Dragon Rare	Villain	Level 2
+Cell -- Perfect	Perfection	DR003	Main Personality	Dragon Rare	Villain	Level 3
+Cell -- Unstoppable	Perfection	DR004	Main Personality	Dragon Rare	Villain	Level 4

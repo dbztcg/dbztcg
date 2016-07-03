@@ -1,0 +1,144 @@
+Name	Set	ImageFile	Type	Rarity	Style	Keywords
+Black Android Programming	Vengeance	C001	Setup	Common	Black	
+Black Astonishing Drill	Vengeance	C002	Drill	Common	Black	
+Black Recollection Drill	Vengeance	C003	Drill	Common	Black	
+Black Downward Beam	Vengeance	C004	Energy Combat	Common	Black	
+Black Face Kick	Vengeance	C005	Physical Combat	Common	Black	
+Black Fist Catch	Vengeance	C006	Physical Combat	Common	Black	
+Black Impact	Vengeance	C007	Physical Combat	Common	Black	
+Black Overload	Vengeance	C008	Energy Combat	Common	Black	
+Black Running Guard	Vengeance	C009	Energy Combat	Common	Black	
+Black Sword Attack	Vengeance	C010	Physical Combat	Common	Black	
+Black Vaulted Strike	Vengeance	C011	Physical Combat	Common	Black	
+Blue Intimidation	Vengeance	C012	Setup	Common	Blue	
+Blue Reinforcements	Vengeance	C013	Setup	Common	Blue	
+Blue Save	Vengeance	C014	Setup	Common	Blue	
+Blue Seizing Drill	Vengeance	C015	Drill	Common	Blue	
+Blue Waiting Drill	Vengeance	C016	Drill	Common	Blue	
+Blue Android Headbutt	Vengeance	C017	Physical Combat	Common	Blue	
+Blue Brush Aside	Vengeance	C018	Physical Combat	Common	Blue	
+Blue Flying Kick	Vengeance	C019	Physical Combat	Common	Blue	
+Blue Rehabilitation	Vengeance	C020	Event	Common	Blue	
+Blue Swat	Vengeance	C021	Energy Combat	Common	Blue	
+Namekian Impending Doom	Vengeance	C022	Setup	Common	Namekian	
+Namekian Vanishing Drill	Vengeance	C023	Drill	Common	Namekian	
+Namekian Airborne Attack	Vengeance	C024	Physical Combat	Common	Namekian	
+Namekian Arm Shield	Vengeance	C025	Physical Combat	Common	Namekian	
+Namekian Concern	Vengeance	C026	Event	Common	Namekian	
+Namekian Multi-Opponent Combat	Vengeance	C027	Physical Combat	Common	Namekian	
+Namekian Protective Posture	Vengeance	C028	Energy Combat	Common	Namekian	
+Namekian Robotic Destruction	Vengeance	C029	Physical Combat	Common	Namekian	
+Namekian Team Up	Vengeance	C030	Physical Combat	Common	Namekian	
+Orange Bravado	Vengeance	C031	Setup	Common	Orange	
+Orange Eviction	Vengeance	C032	Setup	Common	Orange	
+Orange Shopping Drill	Vengeance	C033	Drill	Common	Orange	
+Orange Welcoming Drill	Vengeance	C034	Drill	Common	Orange	
+Orange Combined Burst	Vengeance	C035	Energy Combat	Common	Orange	
+Orange Earthquake	Vengeance	C036	Event	Common	Orange	
+Orange Fierce Attack	Vengeance	C037	Energy Combat	Common	Orange	
+Orange Frenzied Assault	Vengeance	C038	Physical Combat	Common	Orange	
+Orange Interference	Vengeance	C039	Physical Combat	Common	Orange	
+Orange Withdrawal	Vengeance	C040	Energy Combat	Common	Orange	
+Red Reconnaissance Drill	Vengeance	C041	Drill	Common	Red	
+Red Android Palm Blast	Vengeance	C042	Energy Combat	Common	Red	
+Red Body Block	Vengeance	C043	Energy Combat	Common	Red	
+Red Departing Shot	Vengeance	C044	Energy Combat	Common	Red	
+Red Disregard	Vengeance	C045	Physical Combat	Common	Red	
+Red Ejection	Vengeance	C046	Physical Combat	Common	Red	
+Red High Kick	Vengeance	C047	Physical Combat	Common	Red	
+Red Lasers	Vengeance	C048	Energy Combat	Common	Red	
+Red Training Burst	Vengeance	C049	Energy Combat	Common	Red	
+Red Wallop	Vengeance	C050	Physical Combat	Common	Red	
+Saiyan Targeting	Vengeance	C051	Setup	Common	Saiyan	
+Saiyan Assistance	Vengeance	C052	Event	Common	Saiyan	
+Saiyan Clash	Vengeance	C053	Physical Combat	Common	Saiyan	
+Saiyan Club	Vengeance	C054	Energy Combat	Common	Saiyan	
+Saiyan Ferocious Blast	Vengeance	C055	Energy Combat	Common	Saiyan	
+Saiyan Severing Punch	Vengeance	C056	Physical Combat	Common	Saiyan	
+Saiyan Sword Dodge	Vengeance	C057	Physical Combat	Common	Saiyan	
+Saiyan Tantrum	Vengeance	C058	Energy Combat	Common	Saiyan	
+Android Arm Breaker	Vengeance	C059	Physical Combat	Common	Freestyle	
+Quick Blast	Vengeance	C060	Energy Combat	Common	Hero	
+Android 13 -- Redneck Robot	Vengeance	U061	Main Personality	Uncommon	Villain	Level 1
+Android 13 -- Amused	Vengeance	U062	Main Personality	Uncommon	Villain	Level 2
+Android 13 -- Dark Villain	Vengeance	U063	Main Personality	Uncommon	Villain	Level 3
+Android 13 -- Surging Strength	Vengeance	U064	Main Personality	Uncommon	Villain	Level 4
+Broly -- Survivor	Vengeance	U065	Main Personality	Uncommon	Villain	Level 1
+Broly -- Determined	Vengeance	U066	Main Personality	Uncommon	Villain	Level 2
+Broly -- Legendary	Vengeance	U067	Main Personality	Uncommon	Villain	Level 3
+Broly -- Relentless	Vengeance	U068	Main Personality	Uncommon	Villain	Level 4
+Cooler -- Familiar Face	Vengeance	U069	Main Personality	Uncommon	Villain	Level 1
+Cooler -- Transformed	Vengeance	U070	Main Personality	Uncommon	Villain	Level 2
+Cooler -- Menace	Vengeance	U071	Main Personality	Uncommon	Villain	Level 3
+Cooler -- Overlord	Vengeance	U072	Main Personality	Uncommon	Villain	Level 4
+Gohan -- To The Rescue	Vengeance	U073	Main Personality	Uncommon	Hero	Level 1
+Krillin -- Quick	Vengeance	U074	Main Personality	Uncommon	Hero	Level 2
+Master Roshi -- Restrained	Vengeance	U075	Main Personality	Uncommon	Hero	Level 1
+Trunks -- Protective	Vengeance	U076	Main Personality	Uncommon	Hero	Level 1
+Icarus -- Supportive	Vengeance	U077	Ally	Uncommon	Hero	Level 1
+Android 13 -- Powerful	Vengeance	U078	Ally	Uncommon	Villain	Level 1
+Android 14 -- Stoic	Vengeance	U079	Ally	Uncommon	Villain	Level 1
+Android 15 -- Relaxed	Vengeance	U080	Ally	Uncommon	Villain	Level 1
+Broly -- Undaunted	Vengeance	U081	Ally	Uncommon	Villain	Level 1
+Cooler -- Angered	Vengeance	U082	Ally	Uncommon	Villain	Level 1
+Paragus -- Desperate Father	Vengeance	U083	Ally	Uncommon	Villain	Level 1
+Salza -- Henchman	Vengeance	U084	Ally	Uncommon	Villain	Level 1
+Black Invitation	Vengeance	U085	Event	Uncommon	Black	
+Black Liberation	Vengeance	U086	Event	Uncommon	Black	
+Blue Hunt	Vengeance	U087	Event	Uncommon	Blue	
+Blue Skid	Vengeance	U088	Physical Combat	Uncommon	Blue	
+Namekian Empowered Charge	Vengeance	U089	Energy Combat	Uncommon	Namekian	
+Namekian Face Off	Vengeance	U090	Physical Combat	Uncommon	Namekian	
+Namekian Salvo	Vengeance	U091	Energy Combat	Uncommon	Namekian	
+Orange Snoozing Drill	Vengeance	U092	Drill	Uncommon	Orange	
+Orange Android Rising Punch	Vengeance	U093	Physical Combat	Uncommon	Orange	
+Red Integration	Vengeance	U094	Setup	Uncommon	Red	
+Red Double Blast	Vengeance	U095	Energy Combat	Uncommon	Red	
+Red Furious Lunge	Vengeance	U096	Physical Combat	Uncommon	Red	
+Saiyan Recover	Vengeance	U097	Setup	Uncommon	Saiyan	
+Saiyan Terrifying Strike	Vengeance	U098	Physical Combat	Uncommon	Saiyan	
+Point-Blank Volley	Vengeance	U099	Energy Combat	Uncommon	Freestyle	
+Villainous Power Ball	Vengeance	U100	Energy Combat	Uncommon	Villain	
+Black Impatience	Vengeance	R101	Setup	Rare	Black	
+Black Dispersion	Vengeance	R102	Energy Combat	Rare	Black	
+Black Dive	Vengeance	R103	Physical Combat	Rare	Black	
+Black Drain	Vengeance	R104	Energy Combat	Rare	Black	
+Blue Blanketing Blasts	Vengeance	R105	Energy Combat	Rare	Blue	
+Blue Decapitation	Vengeance	R106	Physical Combat	Rare	Blue	
+Blue Discharge	Vengeance	R107	Energy Combat	Rare	Blue	
+Blue Ki Ball	Vengeance	R108	Energy Combat	Rare	Blue	
+Blue Return Fire	Vengeance	R109	Energy Combat	Rare	Blue	
+Namekian Pep Talk	Vengeance	R110	Setup	Rare	Namekian	
+Namekian Harvesting Drill	Vengeance	R111	Drill	Rare	Namekian	
+Namekian Electrifying Grab	Vengeance	R112	Energy Combat	Rare	Namekian	
+Namekian Dash	Vengeance	R113	Physical Combat	Rare	Namekian	
+Namekian Ending	Vengeance	R114	Event	Rare	Namekian	
+Orange Intimidating Drill	Vengeance	R115	Drill	Rare	Orange	
+Orange Counter Ball	Vengeance	R116	Energy Combat	Rare	Orange	
+Orange Hug	Vengeance	R117	Physical Combat	Rare	Orange	
+Orange Immense Blast	Vengeance	R118	Energy Combat	Rare	Orange	
+Orange Sword Chop	Vengeance	R119	Physical Combat	Rare	Orange	
+Red Sword Slicing Drill	Vengeance	R120	Drill	Rare	Red	
+Red Fantasy	Vengeance	R121	Event	Rare	Red	
+Red Motivational Kick	Vengeance	R122	Physical Combat	Rare	Red	
+Red Stylish Entrance	Vengeance	R123	Event	Rare	Red	
+Saiyan Overpowering Aura Drill	Vengeance	R124	Drill	Rare	Saiyan	
+Saiyan Denial	Vengeance	R125	Energy Combat	Rare	Saiyan	
+Saiyan Extinguishing Blast	Vengeance	R126	Energy Combat	Rare	Saiyan	
+Saiyan Lob	Vengeance	R127	Energy Combat	Rare	Saiyan	
+Saiyan Thrust	Vengeance	R128	Physical Combat	Rare	Saiyan	
+Saiyan Trample	Vengeance	R129	Physical Combat	Rare	Saiyan	
+Saiyan Trap	Vengeance	R130	Event	Rare	Saiyan	
+Singing Drill	Vengeance	R131	Drill	Rare	Freestyle	
+Android Insubordination	Vengeance	R132	Physical Combat	Rare	Freestyle	
+Sobering Hammer	Vengeance	R133	Physical Combat	Rare	Freestyle	
+Stomach Crusher	Vengeance	R134	Physical Combat	Rare	Freestyle	
+Android 13's S.S. Deadly Bomber	Vengeance	R135	Energy Combat	Rare	Named	
+Android 13's Impenetrable Defense	Vengeance	R136	Physical Combat	Rare	Named	
+Broly's Eraser Cannon	Vengeance	R137	Energy Combat	Rare	Named	
+Broly's Face Crusher	Vengeance	R138	Physical Combat	Rare	Named	
+Cooler's Rebirth	Vengeance	R139	Energy Combat	Rare	Named	
+Cooler's Supernova	Vengeance	R140	Energy Combat	Rare	Named	
+Surprise Attack	Vengeance	UR141	Physical Combat	Ultra Rare	Freestyle	
+Unleashed	Vengeance	UR142	Event	Ultra Rare	Freestyle	
+Instant Transmission	Vengeance	DR001	Event	Dragon Rare	Freestyle	

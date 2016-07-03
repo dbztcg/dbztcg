@@ -112,7 +112,7 @@ Namekian Overcharge	Evolution	eR110	Event	Rare	Namekian
 Orange Freezing Drill	Evolution	eR111	Drill	Rare	Orange	
 Orange Reading Drill	Evolution	eR112	Drill	Rare	Orange	
 Orange Accumulated Burst	Evolution	eR113	Energy Combat	Rare	Orange	
-Orange Drain	Evolution	eR114	Energy Combat	Starter	Orange	
+Orange Drain	Evolution	eR114	Energy Combat	Rare	Orange	
 Red Analysis	Evolution	eR115	Event	Rare	Red	
 Red Antidote	Evolution	eR116	Event	Rare	Red	
 Red Eye Beams	Evolution	eR117	Energy Combat	Rare	Red	
